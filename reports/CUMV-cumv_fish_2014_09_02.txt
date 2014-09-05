@@ -1,0 +1,119 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 880
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 43
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-02 ; Times: 2
+	Date: 2014-08-04 ; Times: 2
+	Date: 2014-08-07 ; Times: 2
+	Date: 2014-08-12 ; Times: 1
+	Date: 2014-08-13 ; Times: 5
+	Date: 2014-08-14 ; Times: 2
+	Date: 2014-08-15 ; Times: 4
+	Date: 2014-08-16 ; Times: 1
+	Date: 2014-08-19 ; Times: 4
+	Date: 2014-08-21 ; Times: 2
+	Date: 2014-08-22 ; Times: 10
+	Date: 2014-08-23 ; Times: 5
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 5
+	Date: 2014-08-28 ; Times: 2
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""enneacanthus chaetodon"" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "genus:ictalurus AND (NOT TNHC NOT UF)" ; Times: 1
+	Query: "catalognumber:66725 institutioncode:cumv" ; Times: 1
+	Query: "mykiss" ; Times: 8
+	Query: "distance(location,geopoint(-0.23437345230246998,2.548828125))<100000" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:neogaeus genus:phoxinus" ; Times: 1
+	Query: "hogs hole" ; Times: 2
+	Query: "stateprovince:"new york" specificepithet:spiloptera year >= 1960 year <= 1980" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:osseus genus:Lepisosteus" ; Times: 1
+	Query: "Eigenmannia" ; Times: 1
+	Query: "specificepithet:punctatus genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC)" ; Times: 1
+	Query: "Trichomycteridae" ; Times: 1
+	Query: "catalognumber:50849 institutioncode:cumv" ; Times: 1
+	Query: "aum" ; Times: 1
+	Query: "french Guiana" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:rostrata year >= 1930 year <= 1940" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:fulvescens genus:Acipenser" ; Times: 1
+	Query: "guianacara" ; Times: 1
+	Query: "specificepithet:punctatus genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC NOT TU NOT USNM NOT UA)" ; Times: 1
+	Query: "genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC)" ; Times: 2
+	Query: "stateprovince:"new york" genus:lota" ; Times: 1
+	Query: "catalognumber:26443 institutioncode:cumv" ; Times: 1
+	Query: "catalognumber:2096 institutioncode:cumv" ; Times: 1
+	Query: "genus:ictalurus AND (NOT TNHC NOT UF NOT KUI)" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:rostrata" ; Times: 1
+	Query: "catalognumber:55600 institutioncode:cumv" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:pseudoharengus genus:alosa year >= 1950 year <= 2014" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:bifrenatus institutioncode:cumv" ; Times: 2
+	Query: "specificepithet:punctatus genus:ictalurus AND (NOT TNHC NOT UF NOT KUI NOT TCWC NOT TU)" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "genus:ictalurus AND (NOT TNHC)" ; Times: 1
+	Query: "recordedby:barton year >= 1890 year <= 1920" ; Times: 2
+	Query: "catalognumber:27651 institutioncode:cumv" ; Times: 1
+	Query: "recordedby:silver" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:pseudoharengus genus:alosa year >= 1950 year <= 1960" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:bifrenatus institutioncode:cumv year >= 1940 year <= 1965" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:spiloptera year >= 1975 year <= 1980" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 273 download events in this period)
+Total number of records downloaded: 891 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 458
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ayacucho" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 470
+Total number of records retrieved from searches: 4632
+Number of download events that retrieved data from the resource: 54
+Total number of records downloaded: 16824
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 470
+Total number of records retrieved from searches: 4632
+Number of download events that retrieved data from the resource: 74
+Total number of records downloaded: 20278
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
