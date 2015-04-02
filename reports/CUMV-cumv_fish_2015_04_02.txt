@@ -1,0 +1,104 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 549
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-13 ; Times: 3
+	Date: 2015-03-15 ; Times: 7
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xiphophorus montezumae" ; Times: 1
+	Query: "plectroglyphidodon country:"Marshall Islands"" ; Times: 1
+	Query: "esox" ; Times: 1
+	Query: "turtle turtle (carnegie museum )" ; Times: 1
+	Query: "Evans stateprovince:"New York"" ; Times: 7
+	Query: "Dascyllus country:"Marshall Islands"" ; Times: 1
+	Query: "newark valley county:"Tioga" stateprovince:"New York"" ; Times: 1
+	Query: "CM 55255" ; Times: 1
+	Query: "alburnus" ; Times: 1
+	Query: "coris aygula" ; Times: 1
+	Query: "(carnegie museum turtle )" ; Times: 1
+	Query: "Percina palmaris alabama terrapin" ; Times: 1
+	Query: "cyprinidae" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "clinostomus elongatus (canada) AND ( "united states")" ; Times: 1
+	Query: "deli" ; Times: 1
+	Query: "obed river" ; Times: 1
+	Query: "Willseyville county:"Tioga" stateprovince:"New York"" ; Times: 1
+	Query: "county:"Schenectady" stateprovince:"New York" year >= 1900 year <= 2015" ; Times: 1
+	Query: "turtle (carnegie museum )" ; Times: 1
+	Query: "perca flavescens" ; Times: 1
+	Query: "Wissahickon" ; Times: 1
+	Query: "actinopterygii vorax" ; Times: 1
+	Query: "Pimelodina flavipinnis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 298 download events in this period)
+Total number of records downloaded: 175 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 175
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 617
+Total number of records retrieved from searches: 6075
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 2234
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 682
+Total number of records retrieved from searches: 7135
+Number of download events that retrieved data from the resource: 115
+Total number of records downloaded: 23432
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
