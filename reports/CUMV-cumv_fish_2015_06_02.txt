@@ -1,0 +1,153 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 238
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 7
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 4
+	Date: 2015-05-08 ; Times: 4
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 6
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 6
+	Date: 2015-05-22 ; Times: 4
+	Date: 2015-05-23 ; Times: 4
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 9
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 4
+	Date: 2015-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"coahoma" stateprovince:"Mississippi"" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "cumv 9885" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+	Query: "county:"allen" stateprovince:"kentucky" genus:noturus" ; Times: 1
+	Query: "catalognumber:19894 institutioncode:CUMV" ; Times: 2
+	Query: "55546" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "catalognumber:829 institutioncode:CUMV" ; Times: 3
+	Query: "ZSM" ; Times: 1
+	Query: "Philander institutioncode:CUMV" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "mitsukurina" ; Times: 1
+	Query: "county:"fannin" stateprovince:"georgia" genus:percina" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "KOW-11" ; Times: 1
+	Query: "CM 6491" ; Times: 3
+	Query: "county:"tazewell" stateprovince:"virginia" genus:etheostoma" ; Times: 1
+	Query: "acutirostris tissue:1" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "erimystax" ; Times: 1
+	Query: "CUMV 2679" ; Times: 1
+	Query: "OSUM mappable:1" ; Times: 2
+	Query: "KOW-" ; Times: 1
+	Query: "catalognumber:9296 institutioncode:CUMV" ; Times: 1
+	Query: "county:"allen" stateprovince:"kentucky" genus:etheostoma" ; Times: 1
+	Query: "Chrysochloris" ; Times: 1
+	Query: "orchidaceae" ; Times: 1
+	Query: "CUMV 2096" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "cottus bairdii" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Pennsylvania"" ; Times: 2
+	Query: "49339" ; Times: 3
+	Query: "78732" ; Times: 1
+	Query: "Boulton" ; Times: 1
+	Query: "75588" ; Times: 1
+	Query: "mweru" ; Times: 2
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "KOW-11-60" ; Times: 2
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "thalassoma purpureum" ; Times: 3
+	Query: "Catostomus catostomus tissue:1" ; Times: 1
+	Query: "carpiodes velifer" ; Times: 2
+	Query: "hoplias" ; Times: 1
+	Query: "Stegastes fuscus" ; Times: 1
+	Query: "Koster" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "Carpiodes cyprinus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "campostoma" ; Times: 1
+	Query: "Parananochromis" ; Times: 1
+	Query: "odo" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 976 download events in this period)
+Total number of records downloaded: 796 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 744
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cave stateprovince:"Georgia" year >= 1700 year <= 2015" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "county:"Columbia" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 1
+	Query: "Parananochromis" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 686
+Total number of records retrieved from searches: 6313
+Number of download events that retrieved data from the resource: 33
+Total number of records downloaded: 3030
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 751
+Total number of records retrieved from searches: 7373
+Number of download events that retrieved data from the resource: 127
+Total number of records downloaded: 24228
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
