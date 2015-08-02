@@ -1,0 +1,216 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 598
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Russia ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 107
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 7
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 12
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 17
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-11 ; Times: 8
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 9
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 11
+	Date: 2015-07-18 ; Times: 3
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-27 ; Times: 3
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 6
+	Date: 2015-07-30 ; Times: 7
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "22774" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Atractosteus florida" ; Times: 1
+	Query: "photo" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "51472" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "lemairii" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:stramineus institutioncode:cumv year >= 1850 year <= 2014" ; Times: 1
+	Query: "stateprovince:"new york" catalognumber:33248 institutioncode:cumv year >= 1850 year <= 2014" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:stramineus institutioncode:cumv year >= 1920 year <= 1930" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:camura genus:Cyprinella" ; Times: 1
+	Query: "stateprovince:"new york" catalognumber:626 institutioncode:cumv year >= 1850 year <= 2014" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "Cornell University Herpetology Collection" ; Times: 1
+	Query: "county:"Laurens" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Cyprinella caerulea" ; Times: 2
+	Query: "notropis heterodon pennsylvania" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "zsm type:specimen" ; Times: 3
+	Query: "catalognumber:7036 institutioncode:cumv" ; Times: 1
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "CM 6490" ; Times: 3
+	Query: "CM 6491" ; Times: 2
+	Query: "95649" ; Times: 1
+	Query: "mammoth cave" ; Times: 1
+	Query: "stateprovince:"new york" genus:margariscus year >= 1850 year <= 2014" ; Times: 1
+	Query: "chascanopsetta gulf" ; Times: 2
+	Query: "specificepithet:pygmaea" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "LACMNH type:specimen (skeleton)" ; Times: 1
+	Query: "Cyprinella caerulea Alabama" ; Times: 2
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "Hybopsis amblops stateprovince:"New York" institutioncode:cumv year >= 1850 year <= 1900" ; Times: 1
+	Query: "S. p. americana" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "Cass Nebraska" ; Times: 1
+	Query: "catalognumber:28012 institutioncode:cumv" ; Times: 2
+	Query: "Regalecus" ; Times: 9
+	Query: "county:"Fairfield" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "LACMNH type:specimen (skeleton) AND (NOT bird)" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "Mporokoso" ; Times: 1
+	Query: "catalognumber:70671 institutioncode:cumv" ; Times: 1
+	Query: "Regalecus florida" ; Times: 4
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "stateprovince:"new york" catalognumber:20259 institutioncode:cumv year >= 1850 year <= 2014" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "catalognumber:659 institutioncode:cumv" ; Times: 1
+	Query: "Acipenseridae" ; Times: 2
+	Query: "decapterus macarellus gulf" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "stateprovince:"new york" catalognumber:44806 institutioncode:cumv year >= 1850 year <= 2014" ; Times: 1
+	Query: "Moxostoma hubbsi" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "zsm" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: "OSUM" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:margarita year >= 1850 year <= 2014" ; Times: 1
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "CUMV 15567 type:specimen" ; Times: 1
+	Query: "Cyprinella Caerulea alabama" ; Times: 3
+	Query: "catalognumber:20484 institutioncode:cumv" ; Times: 1
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "Potamotrygonidae type:specimen institutioncode:CUMV" ; Times: 1
+	Query: "county:"Union" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "73644" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "stateprovince:"new york" catalognumber:65398 institutioncode:cumv" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "capoeta" ; Times: 3
+	Query: "catalognumber:20483 institutioncode:cumv" ; Times: 1
+	Query: "Hemiramphus marginatus" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "catalognumber:68311 institutioncode:cumv" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "catalognumber:36933 institutioncode:cumv" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdi" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:cragini genus:Etheostoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1084 download events in this period)
+Total number of records downloaded: 4650 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3137
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 4
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 6
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Moxostoma hubbsi" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "Regalecus" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" ) tissue:1" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 893
+Total number of records retrieved from searches: 7229
+Number of download events that retrieved data from the resource: 74
+Total number of records downloaded: 100623
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 958
+Total number of records retrieved from searches: 8289
+Number of download events that retrieved data from the resource: 168
+Total number of records downloaded: 121821
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
