@@ -1,0 +1,209 @@
+Report for Institution Code CUMV, Resource Fish specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 495
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: France ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 76
+	Country: Unknown ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 2
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 4
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 10
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-10 ; Times: 4
+	Date: 2015-08-11 ; Times: 5
+	Date: 2015-08-12 ; Times: 7
+	Date: 2015-08-13 ; Times: 4
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-15 ; Times: 2
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-18 ; Times: 3
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-20 ; Times: 7
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-23 ; Times: 3
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 5
+	Date: 2015-08-27 ; Times: 11
+	Date: 2015-08-28 ; Times: 12
+	Date: 2015-08-29 ; Times: 4
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 15
+	Query: "osum" ; Times: 1
+	Query: "Etheostoma variatum stateprovince:"Virginia"" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:gilberti genus:Noturus" ; Times: 2
+	Query: "specificepithet:cornutus tissue:1" ; Times: 1
+	Query: "genus:cottus" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "Phoxinus tennesseensis" ; Times: 1
+	Query: "john jenks" ; Times: 2
+	Query: "76848" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "Hybognathus nuchalis" ; Times: 1
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "catalognumber:86917" ; Times: 1
+	Query: "48524" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:variatum genus:Etheostoma" ; Times: 1
+	Query: "Ichthyomyzon bdellium" ; Times: 1
+	Query: "catalognumber:95738" ; Times: 1
+	Query: "stateprovince:"Virginia" specificepithet:chlorobranchium genus:Etheostoma" ; Times: 5
+	Query: "Moxostoma lacerum" ; Times: 3
+	Query: "stateprovince:"Virginia" specificepithet:bdellium genus:Ichthyomyzon" ; Times: 1
+	Query: "CM 2824" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "Antietam stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "photo" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "92141" ; Times: 2
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "46549" ; Times: 1
+	Query: "54895" ; Times: 1
+	Query: "country:"Mexico" genus:Gambusia" ; Times: 2
+	Query: "rabosky" ; Times: 2
+	Query: "Psychrolutes" ; Times: 1
+	Query: "Notropis volucellus" ; Times: 2
+	Query: "46610" ; Times: 1
+	Query: "Lepomis macrochirus" ; Times: 1
+	Query: "cornutus" ; Times: 1
+	Query: "Notropis uranoscopus" ; Times: 1
+	Query: "Notropis alborus stateprovince:"Virginia"" ; Times: 1
+	Query: "museo de la plata" ; Times: 1
+	Query: "95008" ; Times: 1
+	Query: "etheostoma swaini" ; Times: 1
+	Query: "cornutus tissue:1" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "catalognumber:7036 institutioncode:cumv" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "isurus oxyrinchus" ; Times: 2
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "94519" ; Times: 3
+	Query: "stateprovince:"Virginia" specificepithet:atherinoides genus:Notropis" ; Times: 1
+	Query: "stateprovince:"north carolina" country:"united states" specificepithet:carolinae genus:cottus" ; Times: 1
+	Query: "year >= 2010 year <= 2015 distance(location,geopoint(41.32732632036622,-75.047607421875))<100000" ; Times: 1
+	Query: "Notropis atherinoides stateprovince:"Virginia"" ; Times: 2
+	Query: "catalognumber:49060" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "83487" ; Times: 1
+	Query: "melanistic" ; Times: 1
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<52644" ; Times: 1
+	Query: "Chrosomus tennesseensis" ; Times: 1
+	Query: "zsm" ; Times: 1
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "Notropis uranoscopus Alabama" ; Times: 2
+	Query: "bulloch county ga" ; Times: 1
+	Query: "heterodon stateprovince:"New York"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1138 download events in this period)
+Total number of records downloaded: 68766 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 31845
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 2
+	Date: 2015-08-17 ; Times: 10
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-27 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "country:"Mexico" class:Actinopterygii" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Etheostoma tallapoosae Alabama" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "country:"Venezuela" year >= 1989 year <= 1989" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "photo voucher" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Etheostoma ditrema Alabama" ; Times: 1
+	Query: ""photo voucher"" ; Times: 2
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 104
+Total number of records retrieved from searches: 495
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 68766
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 104
+Total number of records retrieved from searches: 495
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 68766
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
