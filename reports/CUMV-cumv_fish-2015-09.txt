@@ -1,0 +1,162 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 344
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 103
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 4
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 15
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-30 ; Times: 10
+	Date: 2015-09-02 ; Times: 31
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-06 ; Times: 3
+	Date: 2015-09-05 ; Times: 4
+	Date: 2015-09-04 ; Times: 4
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-28 ; Times: 12
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "distance(location,geopoint(26.5802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "osum" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "ambloplites rupestris" ; Times: 3
+	Query: "lake of bays" ; Times: 1
+	Query: "catalognumber:1745 institutioncode:CUMV" ; Times: 1
+	Query: "B. Kenyon" ; Times: 1
+	Query: "catalognumber:302 institutioncode:CUMV" ; Times: 1
+	Query: "etheostoma" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "catalognumber:3472 institutioncode:CUMV" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "iptrecordid:&#34;urn:occurrence:Arctos:CUMV:Amph:10008:2243441&#34; OR &#34;urn:occurrence:Arctos:CUMV:Fish:65813:2206324&#34;" ; Times: 7
+	Query: "64800" ; Times: 1
+	Query: "Descanso" ; Times: 1
+	Query: "sandfly" ; Times: 1
+	Query: "Percina maculata" ; Times: 1
+	Query: "devil" ; Times: 10
+	Query: "87603" ; Times: 1
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "catalognumber:3430 institutioncode:CUMV" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "cyprinella" ; Times: 1
+	Query: "descanso" ; Times: 1
+	Query: "catalognumber:1012 institutioncode:CUMV" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 1
+	Query: "anoxypristis cuspidata" ; Times: 2
+	Query: "genus:Oncorhynchus tissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:occurrence:Arctos:CUMV:Amph:10008:2243441&#34; OR &#34;urn:occurrence:Arctos:CUMV:Fish:65813:2206324&#34; OR &#34;urn:catalog:AUM:Fish:13271&#34;" ; Times: 3
+	Query: "21878" ; Times: 2
+	Query: "catalognumber:20848 institutioncode:CUMV" ; Times: 2
+	Query: "distance(location,geopoint(29.0802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:7314 institutioncode:CUMV" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "unicorn" ; Times: 5
+	Query: "NRM" ; Times: 1
+	Query: "catalognumber:7315 institutioncode:CUMV" ; Times: 2
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "catalognumber:1740 institutioncode:CUMV" ; Times: 1
+	Query: "aphredoderus sayanus" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:18705 institutioncode:CUMV" ; Times: 1
+	Query: "C. asprella" ; Times: 1
+	Query: "thibault" ; Times: 1
+	Query: "CUMV 16243" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "chimpanzee mappable:1" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 2
+	Query: "genus:Hexanchus institutioncode:cumv" ; Times: 1
+	Query: "recording" ; Times: 2
+	Query: "bryx" ; Times: 1
+	Query: "specificepithet:brevirostrum genus:acipenser" ; Times: 3
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "F.T. Streeter" ; Times: 2
+	Query: "90670" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 23
+	Query: "panaque" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1045 download events in this period)
+Total number of records downloaded: 3866
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Etheostoma tallapoosae" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "genus:aequidens" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+
+
+End of report.
