@@ -1,0 +1,133 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 736
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 35
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Kenya ; Times: 5
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 6
+	Date: 2015-11-12 ; Times: 3
+	Date: 2015-11-17 ; Times: 5
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 7
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-09 ; Times: 5
+	Date: 2015-11-28 ; Times: 2
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-25 ; Times: 5
+	Date: 2015-11-26 ; Times: 3
+	Date: 2015-11-27 ; Times: 2
+	Date: 2015-11-20 ; Times: 2
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "74990" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "miodon" ; Times: 1
+	Query: "type:specimen specificepithet:oblongus genus:Erimyzon stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:pilsbryi genus:notropis" ; Times: 1
+	Query: "Guadalupe Island" ; Times: 2
+	Query: "percina maculata" ; Times: 1
+	Query: "28850" ; Times: 1
+	Query: "locality:moody swamp stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "CUMV 10490" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "Lepidosiren" ; Times: 1
+	Query: "94563" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "chiloglanis institutioncode:CUMV" ; Times: 3
+	Query: "33590" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "fundulus grandis" ; Times: 1
+	Query: "Umbra krameri" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "falciformis" ; Times: 2
+	Query: "chiloglanis institutioncode:CUMV tissue:1" ; Times: 2
+	Query: "CUMV 10023" ; Times: 1
+	Query: "cyprinus carpio" ; Times: 2
+	Query: "28860" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "Edmonson" ; Times: 1
+	Query: "80723" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "97825 fasciatus" ; Times: 1
+	Query: "tetraodon institutioncode:CUMV" ; Times: 1
+	Query: "aluterus monoceros" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "regalecus institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "type:specimen specificepithet:sucetta genus:Erimyzon stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "stomias institutioncode:CUMV" ; Times: 1
+	Query: "etheostoma stigmaeum arkansas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 751 download events in this period)
+Total number of records downloaded: 359
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "Alces year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "county:&#34;Snyder&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Notophthalmus" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Barbus jae" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
