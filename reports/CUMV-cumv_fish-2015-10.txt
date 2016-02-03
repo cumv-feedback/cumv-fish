@@ -1,0 +1,116 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 327
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 37
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-14 ; Times: 6
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-28 ; Times: 9
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-06 ; Times: 7
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:productus genus:Rhinobatos continent:North America" ; Times: 1
+	Query: "noturus placidus" ; Times: 5
+	Query: "32700" ; Times: 1
+	Query: "etheostoma nuchale" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Micropoecilia" ; Times: 1
+	Query: "Pimephales notatus" ; Times: 1
+	Query: "Batrachoididae type:specimen institutioncode:CUMV" ; Times: 2
+	Query: "15205" ; Times: 1
+	Query: "devil" ; Times: 7
+	Query: "blunt-nosed" ; Times: 1
+	Query: "Gillis Rd" ; Times: 2
+	Query: "apodus institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "cumv 9884" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "92289" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "CUMV 54895" ; Times: 1
+	Query: "newfoundland fish" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "unicorn" ; Times: 14
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "gambusia affinis" ; Times: 1
+	Query: "ihering" ; Times: 1
+	Query: "cumv 15205" ; Times: 1
+	Query: "ussheri institutioncode:CUMV" ; Times: 3
+	Query: "CUMV 50691" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "genus:hypomesus county:&#34;contra costa&#34;" ; Times: 1
+	Query: "etheostoma boschungi" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "heterodon marion" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "genus:hypentelium county:&#34;calhoun&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "CUMV 88074" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 823 download events in this period)
+Total number of records downloaded: 821
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "uganda" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "county:&#34;Bandera&#34; mappable:1" ; Times: 1
+
+
+End of report.
