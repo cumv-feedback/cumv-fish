@@ -1,0 +1,150 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 725
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 88
+	Country: Switzerland ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 19
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 17
+	Date: 2015-12-07 ; Times: 12
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-05 ; Times: 4
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-22 ; Times: 4
+	Date: 2015-12-24 ; Times: 2
+	Date: 2015-12-27 ; Times: 3
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-31 ; Times: 8
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 4
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 14
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 3
+	Date: 2015-12-12 ; Times: 6
+	Date: 2015-12-18 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Centrarchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "collectioncode:Fish institutioncode:CUMV" ; Times: 1
+	Query: "mcz lampetra" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "sullivan" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 2
+	Query: "Etheostoma denoncourti" ; Times: 1
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Hydrocynus goliath" ; Times: 1
+	Query: "recordedby:wilson year &gt;= 1945 year &lt;= 1945" ; Times: 1
+	Query: "Rana virgatipes" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Etheostoma chlorobranchium (Virginia)" ; Times: 1
+	Query: "Williams 1955" ; Times: 2
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "Etheostoma variatum (Virginia) AND (Not West)" ; Times: 1
+	Query: "amblyopsis edmonson" ; Times: 3
+	Query: "Cyprinella whipplei (Virginia)" ; Times: 1
+	Query: "devil" ; Times: 10
+	Query: "CUMV 87568" ; Times: 1
+	Query: "Cyphocharax spilurus" ; Times: 2
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "CUMV 87581" ; Times: 2
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "saskia" ; Times: 3
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "catalognumber:97530 collectioncode:Fish institutioncode:CUMV" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "Etheostoma collis (Virginia)" ; Times: 1
+	Query: "Enneacanthus chaetodon" ; Times: 1
+	Query: "Etheostoma denoncourti (Virginia)" ; Times: 1
+	Query: "Erimonax monachus" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "typhlichthys edmonson" ; Times: 1
+	Query: "Cyprinella whipplei" ; Times: 3
+	Query: "CUMV Fish Tissue" ; Times: 1
+	Query: "Anostomus ternetzi" ; Times: 1
+	Query: "minot" ; Times: 1
+	Query: "Mormyrus" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "CUMV 88545" ; Times: 2
+	Query: "percina rex" ; Times: 1
+	Query: "unicorn" ; Times: 12
+	Query: "CUMV 95835" ; Times: 2
+	Query: "louisiana lake bistineau" ; Times: 1
+	Query: "Notropis atherinoides (Virginia)" ; Times: 1
+	Query: "CUMV 96804" ; Times: 1
+	Query: "family:Ictaluridae country:&#34;United States&#34;" ; Times: 1
+	Query: "CUMV 88562" ; Times: 2
+	Query: "rhinichthys atratulus" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "Percina rex" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "collectioncode:Fish Tissue institutioncode:CUMV" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "CUMV 88527" ; Times: 2
+	Query: "87581" ; Times: 1
+	Query: "catalognumber:13270 institutioncode:CUMV" ; Times: 1
+	Query: "Etheostoma variatum (&#34;Virginia&#34;)" ; Times: 1
+	Query: "Chrosomus tennesseensis" ; Times: 2
+	Query: "catalognumber:97530 collectioncode:Fish tissue" ; Times: 1
+	Query: "catalognumber:13271 institutioncode:CUMV" ; Times: 2
+	Query: "73952" ; Times: 1
+	Query: "Notropis atherinoides" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "94544" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 889 download events in this period)
+Total number of records downloaded: 4573
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.
