@@ -1,0 +1,190 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 843
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 101
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 8
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-24 ; Times: 7
+	Date: 2016-01-03 ; Times: 26
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-09 ; Times: 3
+	Date: 2016-01-05 ; Times: 6
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-19 ; Times: 10
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 7
+	Date: 2016-01-11 ; Times: 7
+	Date: 2016-01-10 ; Times: 4
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 6
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-25 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 2
+	Query: "Syngnathidae tissue:1" ; Times: 3
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "unicorn" ; Times: 8
+	Query: "family:Elassomatidae" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "42565" ; Times: 1
+	Query: "cumv 837" ; Times: 2
+	Query: "Etowah County type:specimen year &gt;= 1900 year &lt;= 1950" ; Times: 2
+	Query: "Percina macrocephala" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Thoburnia hamiltoni" ; Times: 3
+	Query: "cumv 854" ; Times: 1
+	Query: "eq" ; Times: 1
+	Query: "anomalum data" ; Times: 1
+	Query: "Pimephales notatus" ; Times: 1
+	Query: "Noturus eleutherus" ; Times: 1
+	Query: "etheostoma osburni" ; Times: 2
+	Query: "devil" ; Times: 5
+	Query: "usnm 17789" ; Times: 1
+	Query: "family:Esocidae" ; Times: 1
+	Query: "Notropis photogenis" ; Times: 1
+	Query: "cumv 8235" ; Times: 2
+	Query: "gbifdatasetid:3633e0e7-8c25-4c3d-b9c7-078c0be25665" ; Times: 2
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 2
+	Query: "cumv 1260" ; Times: 1
+	Query: "cumv 8233" ; Times: 1
+	Query: "cumv 712" ; Times: 1
+	Query: "Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 2
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "bdellostoma polytrema" ; Times: 1
+	Query: "cumv 720" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Noturus flavus" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 3
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "ZMH" ; Times: 1
+	Query: "MRAC" ; Times: 1
+	Query: "family:Gasterosteidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "family:Catostomidae" ; Times: 1
+	Query: "cumv 397" ; Times: 1
+	Query: "CUMV-50482" ; Times: 1
+	Query: "Lepomis macrochirus" ; Times: 6
+	Query: "genus:Etheostoma stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "county:&#34;Franklin&#34; stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "velifer" ; Times: 1
+	Query: "percina nasuta" ; Times: 4
+	Query: "family:Cyprinodontidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 2
+	Query: "genus:Microgadus country:&#34;United States&#34;" ; Times: 1
+	Query: "Asteraceae specimen" ; Times: 1
+	Query: "genus:Etheostoma county:&#34;Hillsborough&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "family:Hiodontidae" ; Times: 1
+	Query: "Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "polypterus" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "etheostoma stigmaeum lee county" ; Times: 1
+	Query: "family:Notopteridae" ; Times: 1
+	Query: "jacksonii" ; Times: 1
+	Query: "family:Centrarchidae" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 2
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Etheostoma zonale" ; Times: 1
+	Query: "family:Goodeidae country:&#34;United States&#34;" ; Times: 2
+	Query: "alestopetersius caudalis" ; Times: 2
+	Query: "cumv 728" ; Times: 1
+	Query: "Catostomus year &gt;= 1978 year &lt;= 1978 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 507 download events in this period)
+Total number of records downloaded: 49772
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 14
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-03 ; Times: 16
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;United States&#34;" ; Times: 2
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 2
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Etheostoma tallapoosae alabama" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Scarinae" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
