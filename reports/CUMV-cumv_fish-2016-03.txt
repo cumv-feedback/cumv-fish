@@ -1,0 +1,86 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Forbesichthys agassizii" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "95588" ; Times: 1
+	Query: "devil" ; Times: 4
+	Query: "Noturus gilberti (Virginia)" ; Times: 1
+	Query: "Etheostoma percnurum" ; Times: 1
+	Query: "etheostoma olmstedi" ; Times: 1
+	Query: "Xenistius californiensis" ; Times: 1
+	Query: "Cubahatchee" ; Times: 1
+	Query: "Lythrypnus zebra" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "monongahela" ; Times: 1
+	Query: "Nocomis biguttatus" ; Times: 3
+	Query: "unicorn" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "dasycottus setiger" ; Times: 1
+	Query: "enophrys bison" ; Times: 1
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 230 download events in this period)
+Total number of records downloaded: 117201
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Indian Cove" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.
