@@ -1,0 +1,222 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 732
+Number of records retrieved in searches: 15090
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 683
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Singapore ; Times: 5
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 594
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 5
+	Date: 2016-06-08 ; Times: 11
+	Date: 2016-06-21 ; Times: 14
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-07 ; Times: 18
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 21
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 25
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 7
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-13 ; Times: 7
+	Date: 2016-06-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:encrasicolus genus:Engraulis" ; Times: 3
+	Query: "49731" ; Times: 1
+	Query: "White marlin" ; Times: 4
+	Query: "46539" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "bison bison   " ; Times: 6
+	Query: "specificepithet:mordax genus:Engraulis" ; Times: 5
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 1
+	Query: "specificepithet:mysticetus genus:Cetengraulis" ; Times: 3
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "cumv 12522" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "CUMV 15962" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "96908" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "CUMV 12927" ; Times: 2
+	Query: "38682" ; Times: 1
+	Query: "CUMV 46671" ; Times: 2
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "collectioncode:fish" ; Times: 1
+	Query: "specificepithet:gibbosus genus:Dentex" ; Times: 2
+	Query: "noturus placidus" ; Times: 6
+	Query: "49990" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 14
+	Query: "26378" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "Santa Catalina Island AND 1882" ; Times: 1
+	Query: "Stomatorhinus ivindoensis" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "7017 cornell" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "numenius tissue:1" ; Times: 4
+	Query: "86655" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "77593" ; Times: 1
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "56134" ; Times: 1
+	Query: "genus:Mola" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "polypteriformes" ; Times: 3
+	Query: "CUMV 29163" ; Times: 2
+	Query: "rhinichthys" ; Times: 1
+	Query: "specificepithet:nasus genus:Anchoa" ; Times: 6
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "polypterus bichir" ; Times: 14
+	Query: "35723" ; Times: 1
+	Query: "specificepithet:muroadsi genus:Decapterus" ; Times: 4
+	Query: "94314" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 166
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "18771" ; Times: 1
+	Query: "CUMV 16239" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "specificepithet:peruviana genus:Selene" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "devil" ; Times: 4
+	Query: "specificepithet:parrai genus:Haemulon" ; Times: 2
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "53 county:&#34;Bladen&#34;" ; Times: 2
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "CUMV 15692" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "nebulosus" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "CUMV 12649" ; Times: 2
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus" ; Times: 2
+	Query: "72923" ; Times: 1
+	Query: "(alestidae) institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "CUMV 16618" ; Times: 3
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "Amia calva" ; Times: 2
+	Query: "29961" ; Times: 2
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 16
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "amia calva" ; Times: 3
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 6
+	Query: "alces alces   " ; Times: 6
+	Query: "50388" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "specificepithet:monoceros genus:Aluterus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "elephas" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 15
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 7
+	Query: "45816" ; Times: 1
+	Query: "Percina" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "catalognumber:54126 year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "AMNH 3928" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "specificepithet:compressa genus:Anchoa" ; Times: 3
+	Query: "specificepithet:belone genus:Belone" ; Times: 51
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1052 download events in this period)
+Total number of records downloaded: 272
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-07 ; Times: 4
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Chordata tissue:1" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "iguana" ; Times: 1
+
+
+End of report.
