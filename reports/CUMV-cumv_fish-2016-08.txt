@@ -1,0 +1,315 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 541
+Number of records retrieved in searches: 7739
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 512
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-14 ; Times: 5
+	Date: 2016-08-28 ; Times: 8
+	Date: 2016-08-16 ; Times: 110
+	Date: 2016-08-17 ; Times: 3
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-19 ; Times: 62
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 52
+	Date: 2016-08-21 ; Times: 10
+	Date: 2016-08-20 ; Times: 249
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-22 ; Times: 7
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-24 ; Times: 6
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-31 ; Times: 5
+	Date: 2016-08-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rhomboides genus:Lagodon" ; Times: 4
+	Query: "34126" ; Times: 1
+	Query: "class:actinopterygii locality:new hampshire" ; Times: 1
+	Query: "specificepithet:bonasus genus:Rhinoptera" ; Times: 2
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 4
+	Query: "specificepithet:thrissina genus:Harengula" ; Times: 1
+	Query: "specificepithet:zonata genus:Seriola" ; Times: 1
+	Query: "specificepithet:rex genus:Ophichthus" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:californiensis genus:Xenistius" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 47
+	Query: "scientificname:Enneacanthus chaetodon country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 2
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "scientificname:Lepomis microlophus country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:cataractae genus:Micropterus" ; Times: 2
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "54750" ; Times: 1
+	Query: "AMERICANUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "specificepithet:parra genus:Haemulon" ; Times: 1
+	Query: "specificepithet:plumieri genus:Haemulon" ; Times: 2
+	Query: "specificepithet:productus genus:Merluccius" ; Times: 1
+	Query: "specificepithet:toxotes genus:Rhacochilus" ; Times: 1
+	Query: "specificepithet:pacificus genus:Microstomus" ; Times: 2
+	Query: "specificepithet:lalandi genus:Seriola" ; Times: 1
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 3
+	Query: "scientificname:Ameiurus melas country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Pomoxis annularis country:United States mappable:1" ; Times: 7
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 10
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 1
+	Query: "scientificname:Micropterus salmoides country:United States mappable:1" ; Times: 9
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 2
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "scientificname:Lepomis humilis country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Enneacanthus obesus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:californiensis genus:Medialuna" ; Times: 1
+	Query: "specificepithet:acronotus genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "specificepithet:brevipinna genus:Carcharhinus" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 7
+	Query: "specificepithet:porosus genus:Rhizoprionodon" ; Times: 1
+	Query: "specificepithet:gibbosus genus:Dentex" ; Times: 1
+	Query: "Fish country:&#34;Gabon&#34; institutioncode:CUMV" ; Times: 1
+	Query: "scientificname:Lepomis auritus country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Lepomis miniatus country:United States mappable:1" ; Times: 4
+	Query: "Labrisomus xanti" ; Times: 6
+	Query: "specificepithet:usta genus:Nicholsina" ; Times: 1
+	Query: "specificepithet:bipinnulatus genus:Elagatis" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 4
+	Query: "scientificname:Micropterus dolomieu country:United States mappable:1" ; Times: 8
+	Query: "specificepithet:pectinatus genus:Centropomus" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:maximus genus:Lachnolaimus" ; Times: 2
+	Query: "scientificname:Dorosoma cepedianum country:United States mappable:1" ; Times: 6
+	Query: "scientificname:Lepomis gibbosus country:United States mappable:1" ; Times: 8
+	Query: "scientificname:Amia calva country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Ambloplites rupestris country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:argenteus genus:Eucinostomus" ; Times: 2
+	Query: "body width" ; Times: 2
+	Query: "specificepithet:triseriata genus:Platyrhinoidis" ; Times: 1
+	Query: "specificepithet:mirabilis genus:Gillichthys" ; Times: 1
+	Query: "class:Osteichthyes type:specimen mappable:1" ; Times: 1
+	Query: "scientificname:Ictalurus punctatus country:United States mappable:1" ; Times: 7
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "genus:Pteronotropis" ; Times: 1
+	Query: "scientificname:Micropterus punctulatus country:United States mappable:1" ; Times: 6
+	Query: "scientificname:Alosa aestivalis country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "44549 institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 3
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 2
+	Query: "specificepithet:cristatus genus:Blennius" ; Times: 1
+	Query: "class:Osteichthyes type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:monticola genus:Agonostomus" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 9
+	Query: "specificepithet:cornutus genus:Zanclus" ; Times: 2
+	Query: "specificepithet:alletteratus genus:Euthynnus" ; Times: 1
+	Query: "pigeon lake ontario" ; Times: 1
+	Query: "specificepithet:cyanops genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 3
+	Query: "scientificname:Ameiurus nebulosus country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:erectus genus:Hippocampus" ; Times: 2
+	Query: "scientificname:Acantharchus pomotis country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:oxyrinchus genus:Isurus" ; Times: 3
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "77187 institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:altivelis genus:Sebastolobus" ; Times: 1
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:congestum genus:Moxostoma" ; Times: 1
+	Query: "gbifdatasetid:3633e0e7-8c25-4c3d-b9c7-078c0be25665" ; Times: 1
+	Query: "scientificname:Sander vitreus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:elongatus genus:Symphurus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus" ; Times: 2
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "specificepithet:undulatus genus:Menticirrhus" ; Times: 1
+	Query: "Heterodon county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "scientificname:Centrarchus macropterus country:United States mappable:1" ; Times: 4
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "specificepithet:guttulata genus:Hypsopsetta" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "Heterodon stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "specificepithet:caurinus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "specificepithet:flavolineatum genus:Haemulon" ; Times: 2
+	Query: "specificepithet:nothus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 1
+	Query: "44538 institutioncode:CUMV" ; Times: 1
+	Query: "country:&#34;Gabon&#34; year &gt;= 2014 year &lt;= 2014 institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "specificepithet:reidi genus:Hippocampus" ; Times: 1
+	Query: "class:Osteichthyes type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "country:&#34;Gabon&#34; institutioncode:CUMV tissue:1" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 4
+	Query: "specificepithet:parrai genus:Haemulon" ; Times: 1
+	Query: "specificepithet:nigrirostris genus:Johnrandallia" ; Times: 1
+	Query: "Poecilia tissue:1" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 3
+	Query: "specificepithet:retrosella genus:Apogon" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Alopias" ; Times: 1
+	Query: "Gasterosteus aculeatus williamsoni" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 2
+	Query: "95656" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "specificepithet:maculatus genus:Dormitator" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 10
+	Query: "specificepithet:francisci genus:Heterodontus" ; Times: 1
+	Query: "scientificname:Morone saxatilis country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 3
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "scientificname:Lepomis marginatus country:United States mappable:1" ; Times: 2
+	Query: "country:&#34;Gabon&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 1
+	Query: "scientificname:Ameiurus natalis country:United States mappable:1" ; Times: 8
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "64030" ; Times: 1
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 2
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "specificepithet:crysos genus:Caranx" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 5
+	Query: "catalognumber:1" ; Times: 1
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Negaprion" ; Times: 1
+	Query: "Etheostoma olmstedi lake" ; Times: 1
+	Query: "specificepithet:thazard genus:Auxis" ; Times: 2
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:acus genus:Tylosurus" ; Times: 1
+	Query: "specificepithet:apodus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:sexfasciatus genus:Caranx" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "Ash Meadows cyprinodon" ; Times: 2
+	Query: "notropis stramineus" ; Times: 1
+	Query: "scientificname:Lepomis punctatus country:United States mappable:1" ; Times: 5
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "scientificname:Perca flavescens country:United States mappable:1" ; Times: 4
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:brevoortii genus:Selene" ; Times: 1
+	Query: "specificepithet:cromis genus:Pogonias" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 2
+	Query: "44536" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Hemiramphus" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 18
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:equiselis genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:analis genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "scientificname:Ictalurus furcatus country:United States mappable:1" ; Times: 1
+	Query: "Etheostoma sellare" ; Times: 1
+	Query: "92074" ; Times: 1
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 8
+	Query: "scientificname:Morone chrysops country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:californica genus:Squatina" ; Times: 1
+	Query: "scientificname:Lepomis megalotis country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 2
+	Query: "specificepithet:salmoides genus:Micropterus" ; Times: 2
+	Query: "specificepithet:panamensis genus:Bagre" ; Times: 1
+	Query: "specificepithet:gracilis genus:Eucinostomus" ; Times: 1
+	Query: "scientificname:Lepomis gulosus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 2
+	Query: "Etheostoma olmstedi lake marion" ; Times: 1
+	Query: "specificepithet:rhodopus genus:Trachinotus" ; Times: 1
+	Query: "specificepithet:balao genus:Hemiramphus" ; Times: 1
+	Query: "90-128" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "scientificname:Micropterus coosae country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 2
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 6
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "country:&#34;Gabon&#34; year &gt;= 2014 institutioncode:CUMV" ; Times: 1
+	Query: "7717 institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:pelamis genus:Katsuwonus" ; Times: 1
+	Query: "specificepithet:bahianus genus:Acanthurus" ; Times: 1
+	Query: "specificepithet:nigricans genus:Girella" ; Times: 1
+	Query: "unicorn" ; Times: 6
+	Query: "noturus placidus" ; Times: 5
+	Query: "scientificname:Pomoxis nigromaculatus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Morone mississippiensis country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "specificepithet:curema genus:Mugil" ; Times: 2
+	Query: "specificepithet:affinis genus:Atherinops" ; Times: 2
+	Query: "specificepithet:chirurgus genus:Acanthurus" ; Times: 2
+	Query: "scientificname:Aphredoderus sayanus country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "scientificname:Dorosoma petenense country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Lepomis symmetricus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "scientificname:Enneacanthus gloriosus country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Morone americana country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:belone genus:Belone" ; Times: 1
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 3
+	Query: "scientificname:Alosa pseudoharengus country:United States mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 924 download events in this period)
+Total number of records downloaded: 10972
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Austria ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "Furcifer tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Mexico" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Gasterosteus aculeatus williamsoni" ; Times: 1
+	Query: "Ash Meadows cyprinodon" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "Fish country:&#34;Gabon&#34; institutioncode:CUMV" ; Times: 1
+
+
+End of report.
