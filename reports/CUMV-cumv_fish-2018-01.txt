@@ -1,0 +1,325 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 414
+Number of records retrieved in searches: 2597
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 94
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 113
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Peru ; Times: 1
+	Country: United States ; Times: 180
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 6
+	Date: 2018-01-31 ; Times: 5
+	Date: 2018-01-30 ; Times: 11
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-10 ; Times: 6
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-14 ; Times: 7
+	Date: 2018-01-17 ; Times: 107
+	Date: 2018-01-16 ; Times: 3
+	Date: 2018-01-24 ; Times: 11
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-08 ; Times: 5
+	Date: 2018-01-09 ; Times: 12
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 5
+	Date: 2018-01-02 ; Times: 15
+	Date: 2018-01-03 ; Times: 87
+	Date: 2018-01-26 ; Times: 9
+	Date: 2018-01-01 ; Times: 2
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 11
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 7
+	Date: 2018-01-23 ; Times: 83
+	Date: 2018-01-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(39.9847956976,-80.7616277378601))&lt;18440" ; Times: 5
+	Query: "Eupomacentrus variabilis" ; Times: 1
+	Query: "Cichlasoma salvini" ; Times: 2
+	Query: "Batrachoides goldmani" ; Times: 2
+	Query: "Premnas biaculeatus" ; Times: 1
+	Query: "Abudefduf marginatus" ; Times: 1
+	Query: "catalognumber:96993" ; Times: 1
+	Query: "Dascyllus albisella" ; Times: 1
+	Query: "Stegastes nigricans" ; Times: 2
+	Query: "Potamotrygon orbignyi" ; Times: 3
+	Query: "dasyatis americana" ; Times: 1
+	Query: "R. Kirk Strawn" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "Girardinichthys multiradiatus" ; Times: 1
+	Query: "Eupomacentrus nigricans" ; Times: 2
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "genus:aulostomus hastissue:1" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "stateprovince:&#34;santander&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "Pomacentrus pavo" ; Times: 1
+	Query: "scientificname:(Notropis topeka) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:carcharias genus:Carcharodon preparations:skeleton" ; Times: 1
+	Query: "genus:lota hastissue:1" ; Times: 1
+	Query: "Neoglyphidodon nigroris" ; Times: 1
+	Query: "Amy R. McCune" ; Times: 2
+	Query: "Glyphidodontops glaucus" ; Times: 1
+	Query: "&#34;Salvelinus namaycush&#34; hastissue:1" ; Times: 3
+	Query: "Strongylura hubbsi" ; Times: 2
+	Query: "Chrysiptera glauca" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34; (gehlbach)" ; Times: 1
+	Query: "Diapterus auratus" ; Times: 2
+	Query: "Kirk Strawn" ; Times: 2
+	Query: "Eucinostomus gula" ; Times: 2
+	Query: "Bison" ; Times: 1
+	Query: "stateprovince:&#34;New york&#34; recordedby:Axtell" ; Times: 6
+	Query: "95638" ; Times: 1
+	Query: "oreochromis niloticus" ; Times: 2
+	Query: "AHC" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "elephas mappable:1" ; Times: 1
+	Query: "Robert Mitchell" ; Times: 1
+	Query: "Dascyllus aruanus" ; Times: 1
+	Query: "Acanthochromis polyacanthus" ; Times: 1
+	Query: "erimystax harryi" ; Times: 7
+	Query: "Amphiprion polymnus" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "Eupomacentrus leucostictus" ; Times: 1
+	Query: "Oreochromis urolepis" ; Times: 1
+	Query: "Eugerres plumieri" ; Times: 2
+	Query: "Potamotrygon motoro" ; Times: 2
+	Query: "Stegastes variabilis" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Stegastes dorsopunicans" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "Stegastes partitus" ; Times: 1
+	Query: "Plectroglyphidodon johnstonianus" ; Times: 1
+	Query: "Pomacentrus melanotus" ; Times: 1
+	Query: "Dischistodus melanotus" ; Times: 1
+	Query: "county:&#34;kimble&#34;" ; Times: 1
+	Query: "Evorthodus lyricus" ; Times: 2
+	Query: "Scopelarchus analis mappable:1" ; Times: 1
+	Query: "genus:typhlichthys county:&#34;edmonson&#34;" ; Times: 1
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "ZSM" ; Times: 2
+	Query: "stateprovince:&#34;Espirito Santo&#34; country:&#34;Brazil&#34; institutioncode:CUMV" ; Times: 1
+	Query: "Chromis sp." ; Times: 6
+	Query: "76908" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "Oreochromis mossambicus" ; Times: 2
+	Query: "Eupomacentrus planifrons" ; Times: 1
+	Query: "Stegastes faciolatus" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 2
+	Query: "77136" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "r-87617" ; Times: 1
+	Query: "Abudefduf sp." ; Times: 1
+	Query: "Hemichromis elongatus" ; Times: 1
+	Query: "Thorichthys meeki" ; Times: 2
+	Query: "class:Osteichthyes preparations:skeleton" ; Times: 3
+	Query: "Barbus hastissue:1" ; Times: 1
+	Query: "Dascyllus reticulatus" ; Times: 2
+	Query: "Stegastes sp." ; Times: 1
+	Query: "Strongylura notata" ; Times: 2
+	Query: "Stegastes fasciolatus" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 2
+	Query: "class:Osteichthyes" ; Times: 1
+	Query: "Dormitator maculatus" ; Times: 2
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "Eucinostomus argenteus" ; Times: 2
+	Query: "Pomacentrus leucostictus" ; Times: 2
+	Query: "Chromis punctipinnis mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus" ; Times: 2
+	Query: "Chromis ternatensis" ; Times: 1
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 2
+	Query: "91908" ; Times: 1
+	Query: "Eupomacentrus partitus" ; Times: 1
+	Query: "Neopomacentrus taeniurus" ; Times: 2
+	Query: "&#34;Morone chrysops&#34; hastissue:1" ; Times: 3
+	Query: "Belonesox belizanus" ; Times: 2
+	Query: "&#34;minnow&#34; hastissue:1" ; Times: 1
+	Query: "genus:Typhlichthys stateprovince:&#34;Kentucky&#34;" ; Times: 7
+	Query: "Chromis sp. D" ; Times: 1
+	Query: "Dischistodus notophthalmus" ; Times: 1
+	Query: "Eupomacentrus planifrons mappable:1" ; Times: 1
+	Query: "Chromis sp. A" ; Times: 1
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "lates microlepis" ; Times: 1
+	Query: "Chromis sp. B" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 2
+	Query: "Pomacentrus notophthalmus" ; Times: 1
+	Query: "Rocio octofasciata" ; Times: 2
+	Query: "Eupomacentrus fuscus" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 2
+	Query: "Bison bison" ; Times: 2
+	Query: "catostomus commersonii" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "Eupomacentrus fasciolatus" ; Times: 1
+	Query: "santander" ; Times: 1
+	Query: "hybopsis dissimilis" ; Times: 1
+	Query: "84111" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "K. Strawn" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 2
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "Abudefduf filifer" ; Times: 1
+	Query: "Dascyllus trimaculatus" ; Times: 1
+	Query: "Waverly county:&#34;Tioga&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Trachinotus carolinus" ; Times: 2
+	Query: "Amphiprion clarkii" ; Times: 1
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "Glyphidodontops leucopomus" ; Times: 1
+	Query: "hybopsis harryi" ; Times: 1
+	Query: "Eucinostomus melanopterus" ; Times: 2
+	Query: "hybopsis dissimilis harryi" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Stegastes leucostictus" ; Times: 1
+	Query: "notropis bifrenatus year &gt;= 1800 year &lt;= 1938" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "24291" ; Times: 1
+	Query: "Chrysiptera leucopomus" ; Times: 1
+	Query: "Heterandria bimaculata" ; Times: 2
+	Query: "Abudefduf taurus" ; Times: 1
+	Query: "Mugil curema" ; Times: 2
+	Query: "Strawn" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "Letchworth stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 2
+	Query: "Chromis margaritifer" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Chromis sp. 5" ; Times: 1
+	Query: "Chromis cyanea" ; Times: 1
+	Query: "Dorosoma petenense" ; Times: 2
+	Query: "Chromis sp. 1" ; Times: 1
+	Query: "Stegastes planifrons" ; Times: 1
+	Query: "Chromis sp. 3" ; Times: 1
+	Query: "Hyporhamphus mexicanus" ; Times: 2
+	Query: "Elops saurus" ; Times: 2
+	Query: "Amphiprion bicinctus" ; Times: 2
+	Query: "notropis bifrenatus year &gt;= 1938 year &lt;= 1938" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "&#34;Acipenser transmontanus&#34; hastissue:1" ; Times: 2
+	Query: "89962" ; Times: 1
+	Query: "Chromis punctipinnis" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Stegastes adustus" ; Times: 1
+	Query: "Paramormyrops sphekodes" ; Times: 2
+	Query: "Pan institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Poecilia mexicana" ; Times: 2
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Dascyllus melanurus" ; Times: 1
+	Query: "29233" ; Times: 3
+	Query: "Aplodinotus grunniens" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 2
+	Query: "Plectroglyphidodon lacrymatus" ; Times: 1
+	Query: "Thorichthys helleri" ; Times: 2
+	Query: "county:&#34;wetzel&#34; stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Trinectes maculatus" ; Times: 2
+	Query: "specificepithet:diabolis genus:cyprinodon" ; Times: 1
+	Query: "specificepithet:Intermedius hastissue:1" ; Times: 1
+	Query: "Cryptomyrus" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 2
+	Query: "Oreochromis niloticus" ; Times: 2
+	Query: "Belone belone mappable:1" ; Times: 2
+	Query: "42679" ; Times: 1
+	Query: "Chrysiptera leucopoma" ; Times: 1
+	Query: "&#34;Catostomus commersonii&#34; continent:North America hastissue:1" ; Times: 1
+	Query: "Petenia splendida" ; Times: 2
+	Query: "Strongylura marina" ; Times: 2
+	Query: "Dischistodus notopthalmus" ; Times: 1
+	Query: "Pomacentrus fuscus" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Dasyatis say" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 2
+	Query: "Stegastes planifrons mappable:1" ; Times: 1
+	Query: "NRM" ; Times: 2
+	Query: "&#34;Catostomus commersonii&#34; hastissue:1" ; Times: 1
+	Query: "Achirus lineatus" ; Times: 2
+	Query: "petenia splendida" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 3
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:confluentus hastissue:1" ; Times: 81
+	Query: "Opsanus beta" ; Times: 2
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Stegastes fuscus" ; Times: 1
+	Query: "Pomacentrus taeniurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1398 download events in this period)
+Total number of records downloaded: 916
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 7
+	Date: 2018-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 1
+	Query: "Potamotrygon motoro" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "county:&#34;Putnam&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;New york&#34; recordedby:Axtell" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "anchoa mitchilli" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 4
+	Query: "locality:tamiahua stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "stateprovince:&#34;santander&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "erimystax harryi" ; Times: 1
+
+
+End of report.
