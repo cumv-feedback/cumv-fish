@@ -1,0 +1,186 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 880
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 7
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 109
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 4
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 10
+	Date: 2018-05-24 ; Times: 7
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 24
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 14
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 4
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 4
+	Date: 2018-05-15 ; Times: 7
+	Date: 2018-05-17 ; Times: 8
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 7
+	Date: 2018-05-10 ; Times: 17
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "AL 3054" ; Times: 1
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:haitiensis family:Cichlidae" ; Times: 1
+	Query: "mola" ; Times: 1
+	Query: "cumv 55067" ; Times: 1
+	Query: "cumv 55066" ; Times: 2
+	Query: "gbifdatasetid:3633e0e7-8c25-4c3d-b9c7-078c0be25665 mola" ; Times: 2
+	Query: "Cottus bairdii" ; Times: 3
+	Query: "Labeo barbatus" ; Times: 1
+	Query: "Paramormyrops ms offouensis" ; Times: 1
+	Query: "typhlichthys" ; Times: 1
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "Burr" ; Times: 1
+	Query: "scientificname:(Acipenser fulvescens) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "specificepithet:taenia family:Cichlidae" ; Times: 1
+	Query: "CM 9029" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 2
+	Query: "tandanus tandanus" ; Times: 1
+	Query: "Paramormyrops" ; Times: 1
+	Query: "&#34;labeo nunensis&#34;" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "specificepithet:carpintis genus:Herichthys" ; Times: 1
+	Query: "noturus placidus" ; Times: 6
+	Query: "Morone americana " ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "stateprovince:&#34;maine&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "labeo" ; Times: 1
+	Query: "A. Burr" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "Labeo falcipinnis" ; Times: 1
+	Query: "Congothrissa gossei" ; Times: 2
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "CM 9041" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "P45" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "Labeo greenii" ; Times: 2
+	Query: "gbifdatasetid:3633e0e7-8c25-4c3d-b9c7-078c0be25665" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;travis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Carcharias taurus" ; Times: 1
+	Query: "distance(location,geopoint(43.0969710040001,-93.433419615))&lt;16732" ; Times: 2
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "genus:Rocio" ; Times: 1
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Labeo batesii" ; Times: 1
+	Query: "genus:Herichthys" ; Times: 3
+	Query: "distance(location,geopoint(43.0969653373316,-93.4336533711819))&lt;29868" ; Times: 1
+	Query: "hyphessobrycon inconstans" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "Melanotaeniidae year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "genus:Guianacara" ; Times: 3
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "scientificname:(Moxostoma carinatum) country:United States mappable:1" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:underwoodi family:Cichlidae" ; Times: 2
+	Query: "44963" ; Times: 1
+	Query: "A. G. Burr" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "genus:Theraps" ; Times: 1
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "genus:Petenia" ; Times: 1
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "morone americana" ; Times: 1
+	Query: "Paramormyrops sphekodes" ; Times: 1
+	Query: "ZSM" ; Times: 1
+	Query: "Paramormyrops offouensis" ; Times: 2
+	Query: "specificepithet:octofasciata genus:Rocio" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "Brazil hastypestatus:1 hastissue:1" ; Times: 2
+	Query: "specificepithet:huallagae family:Cichlidae" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "MBU" ; Times: 1
+	Query: "Kingsleyae" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "&#34;labeo nasus&#34;" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "vntype:specimen specificepithet:adscensionis genus:epinephelus hastissue:1" ; Times: 1
+	Query: "Apogon retrosella" ; Times: 4
+	Query: "39454" ; Times: 1
+	Query: "payton s" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 2973
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "gulf of california class:chondrichthyes year &lt;= 1960" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Paramormyrops ms offouensis" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Paramormyrops offouensis" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
