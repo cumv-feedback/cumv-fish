@@ -1,0 +1,271 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 6238
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Romania ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 160
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 16
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 7
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-06 ; Times: 9
+	Date: 2018-09-21 ; Times: 12
+	Date: 2018-09-04 ; Times: 20
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-09 ; Times: 7
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 15
+	Date: 2018-09-10 ; Times: 9
+	Date: 2018-09-13 ; Times: 53
+	Date: 2018-09-12 ; Times: 5
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 13
+	Date: 2018-09-16 ; Times: 11
+	Date: 2018-09-19 ; Times: 14
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-27 ; Times: 11
+	Date: 2018-09-20 ; Times: 9
+	Date: 2018-09-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Sarotherodon mvogoi" ; Times: 1
+	Query: "lamna nasus" ; Times: 6
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "5178" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 3
+	Query: "astyanax cave" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "sphoeroides nephelus hastissue:1" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "Guatemala" ; Times: 1
+	Query: "scientificname:(Pogonichthys macrolepidotus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "14262 vntype:specimen institutioncode:CUMV" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "catalognumber:98901 institutioncode:CUMV" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "salamander" ; Times: 3
+	Query: "university of oklahoma" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Myrophis plumbeus" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "county:&#34;orange&#34; recordedby:hilton year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "Washington State university" ; Times: 1
+	Query: "Virginia opossum" ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "anguilla rostrata susquehanna" ; Times: 1
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "003-95" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "dasyatis" ; Times: 1
+	Query: "CUMV 70740" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "Fundulus heteroclitus" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Danio rerio" ; Times: 3
+	Query: "49597" ; Times: 1
+	Query: "specificepithet:gilberti stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "Reading" ; Times: 1
+	Query: "county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "heterodon" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "catalognumber:98808 institutioncode:CUMV" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 4
+	Query: "Constanta" ; Times: 1
+	Query: "Salmo salar" ; Times: 2
+	Query: "Slater Museum" ; Times: 1
+	Query: "aguascalientes" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Bilstein" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "43204" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 2
+	Query: "country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "locality:ontario year &gt;= 1938 year &lt;= 1938" ; Times: 1
+	Query: "notropis chiliticus" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus oculatus OR Lepisosteus productus OR Cylindrosteus productus) country:United States mappable:1" ; Times: 1
+	Query: "Silas" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "lake erie" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "recordedby:W. Stone" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "recordedby:Saunders" ; Times: 2
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Bison bison" ; Times: 6
+	Query: "devil" ; Times: 1
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "scientificname:(Carpiodes cyprinus OR Carpiodes cyprinus cyprinus OR Carpiodes forbesi OR Carpiodes cyprinus forbesi) country:United States mappable:1" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 3
+	Query: "(yaqui)" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "vntype:specimen specificepithet:galeatus" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "gambusia nobilis" ; Times: 2
+	Query: "genus:Lasiancistrus hastissue:1" ; Times: 1
+	Query: "CUMV 79742" ; Times: 1
+	Query: "CUMV 79743" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "&#34;Osgood&#34;" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 3
+	Query: "Salmo" ; Times: 2
+	Query: "notropis allegheny" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 3
+	Query: "genus:gasterosteus stateprovince:&#34;california&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "recordedby:Bilstein" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:undulatus genus:menticirrhus" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "furcifer" ; Times: 2
+	Query: "LYTHRYPNUS ZEBRA" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "texas a&amp;m" ; Times: 1
+	Query: "Heterodon" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "catalognumber:27061 institutioncode:CUMV" ; Times: 2
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "oklahoma state university" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "11240" ; Times: 1
+	Query: "anguilla rostrata New York" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Paget" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "43935" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 2
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "palmas" ; Times: 3
+	Query: "OSU" ; Times: 1
+	Query: "Clupea harengus" ; Times: 2
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "genus:astyanax country:&#34;mexico&#34;" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "R 15654" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:99101 institutioncode:CUMV" ; Times: 1
+	Query: "gasterosteus california vntype:specimen" ; Times: 1
+	Query: "sphoeroides nephelus" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "university of texas austin" ; Times: 1
+	Query: "Cryptomyrus ogoouensis" ; Times: 1
+	Query: "Paget Island" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "scientificname:(Astyanax mexicanus OR Astyanax fasciatus mexicanus) country:United States mappable:1" ; Times: 1
+	Query: "CUMV 79740" ; Times: 1
+	Query: "ohio state university" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 846 download events in this period)
+Total number of records downloaded: 1927
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "ArcGis" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "genus:Lasiancistrus hastissue:1" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
