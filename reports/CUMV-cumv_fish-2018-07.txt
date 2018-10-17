@@ -1,0 +1,258 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 218
+Number of records retrieved in searches: 2394
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: China ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 178
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-01 ; Times: 4
+	Date: 2018-07-02 ; Times: 8
+	Date: 2018-07-03 ; Times: 12
+	Date: 2018-07-28 ; Times: 2
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 2
+	Date: 2018-07-09 ; Times: 8
+	Date: 2018-07-04 ; Times: 6
+	Date: 2018-07-05 ; Times: 4
+	Date: 2018-07-06 ; Times: 10
+	Date: 2018-07-21 ; Times: 4
+	Date: 2018-07-26 ; Times: 7
+	Date: 2018-07-27 ; Times: 7
+	Date: 2018-07-24 ; Times: 18
+	Date: 2018-07-25 ; Times: 13
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-12 ; Times: 9
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-10 ; Times: 21
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-16 ; Times: 8
+	Date: 2018-07-15 ; Times: 5
+	Date: 2018-07-31 ; Times: 22
+	Date: 2018-07-30 ; Times: 5
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-18 ; Times: 3
+	Date: 2018-07-23 ; Times: 16
+	Date: 2018-07-20 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "7815" ; Times: 2
+	Query: "cincinnati" ; Times: 2
+	Query: "44690" ; Times: 1
+	Query: "platydoras costatus" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "(cameta)" ; Times: 2
+	Query: "34490" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "3418" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "Conover" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "panther" ; Times: 1
+	Query: "Malapterurus stiassnyae" ; Times: 1
+	Query: "W48-16" ; Times: 2
+	Query: "18420" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "specificepithet:STRAMINEUS genus:notropis stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "bamberg" ; Times: 2
+	Query: "22763" ; Times: 2
+	Query: "fish community" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "CUMV Fish 81255" ; Times: 1
+	Query: "flamingo" ; Times: 2
+	Query: "Marshall Co" ; Times: 1
+	Query: "clarke county virginia" ; Times: 1
+	Query: "6399" ; Times: 1
+	Query: "7252" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "clupea harengus" ; Times: 1
+	Query: "90043" ; Times: 4
+	Query: "92002" ; Times: 1
+	Query: "2259" ; Times: 1
+	Query: "233 675" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "(Blair county pennsylvania)" ; Times: 2
+	Query: "2796" ; Times: 1
+	Query: "13018" ; Times: 1
+	Query: "diani" ; Times: 4
+	Query: "30999" ; Times: 1
+	Query: "county:&#34;Johnson&#34;" ; Times: 1
+	Query: "cyprinella caerulea" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish" ; Times: 2
+	Query: "90043 CM" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "&#34;Harris County&#34;" ; Times: 2
+	Query: "16252" ; Times: 1
+	Query: "genus:notropis stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "20055" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "serrasalmus humeralis" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "5840" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "catalognumber:13728 institutioncode:CUMV" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "3318" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "90043 AND CM" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "MRAC" ; Times: 1
+	Query: "gbifdatasetid:3633e0e7-8c25-4c3d-b9c7-078c0be25665" ; Times: 1
+	Query: "county:&#34;Patrick&#34; stateprovince:&#34;Virginia&#34;" ; Times: 4
+	Query: "5083" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "6063" ; Times: 1
+	Query: "Regina York" ; Times: 5
+	Query: "12513" ; Times: 1
+	Query: "Ancistrus" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "specificepithet:caerulea genus:cyprinella locality:schultz" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "Aberdeen" ; Times: 3
+	Query: "53355" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "15899" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "23651" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "erimyzon sucetta" ; Times: 1
+	Query: "labeo sorex" ; Times: 1
+	Query: "locality:Cametá country:&#34;Brazil&#34;" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "danio rerio" ; Times: 3
+	Query: "locality:flour lake" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "dunkard" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 2
+	Query: "24926" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "33717" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "specificepithet:rerio genus:danio" ; Times: 8
+	Query: "32863" ; Times: 2
+	Query: "963" ; Times: 1
+	Query: "Samar Philippines" ; Times: 1
+	Query: "5958" ; Times: 1
+	Query: "w48-16" ; Times: 1
+	Query: "serrasalmus medinai" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "8589" ; Times: 1
+	Query: "8933" ; Times: 1
+	Query: "vntype:specimen specificepithet:rerio genus:danio" ; Times: 3
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018 hastypestatus:1" ; Times: 2
+	Query: "specificepithet:rerio genus:Danio" ; Times: 3
+	Query: "1196 p" ; Times: 1
+	Query: "7931" ; Times: 1
+	Query: "Comal county" ; Times: 1
+	Query: "7287" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "serrasalmus irritans" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 3
+	Query: "6505" ; Times: 1
+	Query: "Nicholsina denticulata" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 1
+	Query: "12781" ; Times: 2
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "chondrichthyes" ; Times: 1
+	Query: "clupeonella" ; Times: 1
+	Query: "Salamander" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;labeo sanagaensis&#34;" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "americanus clarke county" ; Times: 1
+	Query: "2422" ; Times: 1
+	Query: "6188" ; Times: 1
+	Query: "serrasalmus elongatus" ; Times: 1
+	Query: "2706" ; Times: 1
+	Query: "CUMV Fish 88064" ; Times: 2
+	Query: "65253" ; Times: 1
+	Query: "locality:Stuart stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "1552" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "26817" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "recordedby:bilstein" ; Times: 1
+	Query: "7826" ; Times: 1
+	Query: "3704" ; Times: 4
+	Query: "13625" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "&#34;Malapterurus microstoma&#34;" ; Times: 2
+	Query: "22213" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 977 download events in this period)
+Total number of records downloaded: 1637
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 3
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "locality:Cameta country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "locality:Cameta stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 4
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "(cameta)" ; Times: 1
+	Query: "Nicholsina denticulata" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 3
+
+
+End of report.
