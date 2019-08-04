@@ -1,0 +1,299 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 267
+Number of records retrieved in searches: 3815
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: Venezuela ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 220
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 42
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-08 ; Times: 94
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-13 ; Times: 4
+	Date: 2019-07-10 ; Times: 12
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 12
+	Date: 2019-07-17 ; Times: 7
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-03 ; Times: 8
+	Date: 2019-07-23 ; Times: 10
+	Date: 2019-07-22 ; Times: 6
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 24
+	Date: 2019-07-05 ; Times: 7
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Pellonula specificepithet:vorax" ; Times: 1
+	Query: "genus:Lycengraulis specificepithet:grossidens" ; Times: 1
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "scientificname:(Elassoma boehlkei) country:United States mappable:1" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "genus:Acantopsis specificepithet:choirorhynchos" ; Times: 1
+	Query: "genus:Geophagus specificepithet:crassilabris" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "specificepithet:variatum genus:Etheostoma stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "scientificname:(Percina macrocephala) country:United States mappable:1" ; Times: 1
+	Query: "genus:Thoburnia specificepithet:rhothoeca" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "Zonata zonata" ; Times: 17
+	Query: "locality:Shelter Island county:&#34;suffolk&#34; stateprovince:&#34;New York&#34; (mashomack OR shelter island)" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "Etheostoma variatum" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "genus:Mikrogeophagus specificepithet:ramirezi" ; Times: 1
+	Query: "Kellog" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "recordedby:PAYNE" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "genus:Metriaclima" ; Times: 1
+	Query: "54-213" ; Times: 3
+	Query: "7044" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "procatopus" ; Times: 2
+	Query: "scientificname:(Notropis ariommus) country:United States mappable:1" ; Times: 1
+	Query: "W 65-52" ; Times: 1
+	Query: "genus:Sphyraena specificepithet:sphyraena" ; Times: 1
+	Query: "scientificname:(Chrosomus neogaeus OR Phoxinus neogaeus) country:United States mappable:1" ; Times: 1
+	Query: "Moxostoma lacerum" ; Times: 4
+	Query: "acipenser" ; Times: 1
+	Query: "erimyzon claviformis" ; Times: 2
+	Query: "Doryrhamphus" ; Times: 7
+	Query: "scientificname:(Erimyzon oblongus OR Erimyzon oblongus oblongus OR Erimyzon sucetta oblongus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "scientificname:(Fundulus jenkinsi) country:United States mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "genus:Cottus specificepithet:hypselurus" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Cyclothone specificepithet:atraria" ; Times: 1
+	Query: "Raja rhina" ; Times: 3
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Micropterus" ; Times: 1
+	Query: "genus:Opsopoeodus" ; Times: 1
+	Query: "28317 FISH" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "genus:Notemigonus" ; Times: 1
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "Frost Pond" ; Times: 1
+	Query: "genus:Paramormyrops specificepithet:gabonensis" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "genus:Pristigaster specificepithet:cayana" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "mollis" ; Times: 1
+	Query: "Tietê" ; Times: 1
+	Query: "recordedby:Payne" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "scientificname:(Chrosomus eos OR Phoxinus eos) country:United States mappable:1" ; Times: 1
+	Query: "lmk" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus hydrophlox) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:klamathensis" ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "genus:Lepomis specificepithet:marginatus" ; Times: 1
+	Query: "genus:Labeobarbus specificepithet:batesii" ; Times: 1
+	Query: "Pteraspis" ; Times: 2
+	Query: "erimyzon sucetta" ; Times: 1
+	Query: "10780" ; Times: 1
+	Query: "genus:Ulvaria specificepithet:subbifurcata" ; Times: 1
+	Query: "genus:Cottus specificepithet:perplexus" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:alberti" ; Times: 1
+	Query: "genus:Cottus specificepithet:marginatus" ; Times: 1
+	Query: "0453" ; Times: 1
+	Query: "76722" ; Times: 1
+	Query: "genus:Amia" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "genus:Bothragonus specificepithet:swanii" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "locality:shelter island county:&#34;suffolk&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "scientificname:(Cottus bairdii OR Cottus ictalops OR Pegedictis ictalops) country:United States mappable:1" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Microphis" ; Times: 5
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "genus:Anarchopterus specificepithet:criniger" ; Times: 1
+	Query: "genus:Parauchenoglanis" ; Times: 1
+	Query: "Guatemala" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "genus:Ichthyomyzon specificepithet:bdellium" ; Times: 1
+	Query: "Aspidontus" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "scientificname:(Etheostoma osburni) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "scientificname:(Notropis perpallidus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 1
+	Query: "genus:Leporinus specificepithet:muyscorum" ; Times: 1
+	Query: "Clepticus" ; Times: 1
+	Query: "vntype:specimen (spirit)" ; Times: 1
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "CUMV 91702" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "genus:Ernstichthys" ; Times: 1
+	Query: "scientificname:(Labidesthes vanhyningi) country:United States mappable:1" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "Río Santiago" ; Times: 1
+	Query: "(mashomack OR shelter island)" ; Times: 1
+	Query: "genus:Leuroglossus specificepithet:stilbius" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "Auburn" ; Times: 1
+	Query: "genus:Trigonostigma specificepithet:heteromorpha" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:spinosus" ; Times: 1
+	Query: "scientificname:(Etheostoma cinereum) country:United States mappable:1" ; Times: 1
+	Query: "oryzias latipes" ; Times: 1
+	Query: "scientificname:(Noturus gladiator) country:United States mappable:1" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "genus:Umbra" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "42-480" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 1
+	Query: "scientificname:(Percina bimaculata) country:United States mappable:1" ; Times: 1
+	Query: "genus:Tropheus" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "genus:Diplotaxodon" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:humboldtii" ; Times: 1
+	Query: "Raja binoculata" ; Times: 3
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "HAZEL" ; Times: 2
+	Query: "South Mills river" ; Times: 1
+	Query: "genus:Otopharynx specificepithet:brooksi" ; Times: 1
+	Query: "scientificname:(Percina cymatotaenia) country:United States mappable:1" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 1
+	Query: "scientificname:(Moxostoma lachneri OR Scartomyzon lachneri) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "scientificname:(Etheostoma brevirostrum) country:United States mappable:1" ; Times: 1
+	Query: "genus:Coreoperca specificepithet:herzi" ; Times: 1
+	Query: "Percina rex mappable:1" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CUMV" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "scientificname:(Percina nasuta) country:United States mappable:1" ; Times: 1
+	Query: "Osteostraci" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "Zonata" ; Times: 8
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+	Query: "scientificname:(Noturus gilberti) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila intermedia OR Gila robusta intermedia) country:United States mappable:1" ; Times: 1
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; hastissue:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "69829" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:margarita" ; Times: 1
+	Query: "genus:Ameiurus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "scientificname:(Etheostoma trisella) country:United States mappable:1" ; Times: 1
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 985 download events in this period)
+Total number of records downloaded: 215
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
