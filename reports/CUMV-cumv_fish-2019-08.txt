@@ -1,0 +1,385 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 404
+Number of records retrieved in searches: 4625
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 157
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: Dominican Republic ; Times: 1
+	Country: France ; Times: 90
+	Country: United Kingdom ; Times: 89
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Greece ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 28
+	Country: Canada ; Times: 1
+	Country: Barbados ; Times: 1
+	Country: Ukraine ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 6
+	Date: 2019-08-28 ; Times: 6
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-02 ; Times: 5
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-05 ; Times: 107
+	Date: 2019-08-06 ; Times: 8
+	Date: 2019-08-07 ; Times: 21
+	Date: 2019-08-08 ; Times: 61
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 28
+	Date: 2019-08-22 ; Times: 11
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 12
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 7
+	Date: 2019-08-14 ; Times: 6
+	Date: 2019-08-13 ; Times: 63
+	Date: 2019-08-12 ; Times: 5
+	Date: 2019-08-11 ; Times: 3
+	Date: 2019-08-10 ; Times: 3
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-30 ; Times: 9
+	Date: 2019-08-19 ; Times: 10
+	Date: 2019-08-18 ; Times: 4
+	Date: 2019-08-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Haemulon album mappable:1" ; Times: 1
+	Query: "Megalonema amaxanthum" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Santander" ; Times: 1
+	Query: "Lepomis symmetricus CUMV" ; Times: 1
+	Query: "specificepithet:browni" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "noturus placidus" ; Times: 3
+	Query: "thunnus albacares" ; Times: 1
+	Query: "Siniperca CUMV" ; Times: 1
+	Query: "Little Tennessee notropis" ; Times: 1
+	Query: "CUMV 12675" ; Times: 2
+	Query: "Corynopoma riisei" ; Times: 1
+	Query: "Hemibrycon taeniurus" ; Times: 1
+	Query: "Lepomis cyanellus CUMV" ; Times: 1
+	Query: "South Mills river" ; Times: 1
+	Query: "Gnathonemus" ; Times: 8
+	Query: "hortulanus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "Creagrutus beni" ; Times: 1
+	Query: "Acanthemblemaria aspera mappable:1" ; Times: 2
+	Query: "Gonorynchiformes" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Hyphessobrycon eques" ; Times: 1
+	Query: "Lasiancistrus schomburgkii" ; Times: 1
+	Query: "Ceratobranchia obtusirostris" ; Times: 1
+	Query: "Farlowella mariaelenae" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 6
+	Query: "Heteropneustes fossilis" ; Times: 1
+	Query: "Thoracocharax stellatus" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 6
+	Query: "Pimelodus pictus" ; Times: 1
+	Query: "Lepomis macrochirus CUMV" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 7
+	Query: "Lepomis miniatus CUMV" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "etheostoma cragini" ; Times: 2
+	Query: "Tylochromis polylepis" ; Times: 1
+	Query: "st. Catherines" ; Times: 1
+	Query: "Gymnotus carapo" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "Farlowella vittata" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "NOTROPIS POTTERI" ; Times: 4
+	Query: "Pimelodina flavipinnis" ; Times: 1
+	Query: "Lithodoras dorsalis" ; Times: 1
+	Query: "Bryconamericus deuterodonoides" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 1
+	Query: "genus:Trachinocephalus specificepithet:myops" ; Times: 1
+	Query: "Oxydoras niger" ; Times: 1
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Gonorynchiformes vntype:specimen institutioncode:CUMV" ; Times: 1
+	Query: "71277" ; Times: 1
+	Query: "Piabina argentea" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Kyphosus CUMV" ; Times: 2
+	Query: "Callichthys callichthys" ; Times: 1
+	Query: "Apogon maculatus mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "Etmopterus gracilispinis" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Symphysodon discus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Enneacanthus gloriosus" ; Times: 2
+	Query: "CUMV 13367" ; Times: 1
+	Query: "Hemibrycon jelskii" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "Pimelodella cristata" ; Times: 1
+	Query: "Anadoras grypus" ; Times: 1
+	Query: "Carcharhinus acronotus mappable:1" ; Times: 2
+	Query: "Eigenmannia virescens" ; Times: 1
+	Query: "Campylomormyrus" ; Times: 1
+	Query: "Mustelus canis" ; Times: 1
+	Query: "Sternoptyx pseudobscura" ; Times: 1
+	Query: "Halichoeres pictus mappable:1" ; Times: 1
+	Query: "Pomoxis nigromaculatus" ; Times: 1
+	Query: "Kyphosus incisor mappable:1" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Little Tennessee notropis north Carolina" ; Times: 2
+	Query: "Brachyhypopomus occidentalis" ; Times: 1
+	Query: "Planiloricaria cryptodon" ; Times: 1
+	Query: "Crenicichla lepidota" ; Times: 1
+	Query: "69462" ; Times: 1
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "genus:Erimonax" ; Times: 1
+	Query: "Centrodoras brachiatus" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 2
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Spatuloricaria puganensis" ; Times: 2
+	Query: "Sorubim cuspicaudus" ; Times: 1
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 1
+	Query: "Orinocodoras eigenmanni" ; Times: 1
+	Query: "Slater Museum" ; Times: 2
+	Query: "Carcharhinus acronotus" ; Times: 1
+	Query: "Lepomis gulosus CUMV" ; Times: 3
+	Query: "DASYAtis americana" ; Times: 1
+	Query: "heptapterus" ; Times: 2
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "Enneacanthus chaetodon" ; Times: 1
+	Query: "Carcharhinus perezi" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "schindleria" ; Times: 2
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "Hemisorubim platyrhynchos" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Creagrutus flavescens" ; Times: 1
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "Elassoma evergladei CUMV" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "slater" ; Times: 1
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "phenacorhamdia" ; Times: 1
+	Query: "Lepomis auritus CUMV" ; Times: 1
+	Query: "Pimelodus blochii" ; Times: 2
+	Query: "Micropterus salmoides CUMV" ; Times: 1
+	Query: "Gonorynchiformes vntype:specimen" ; Times: 1
+	Query: "country:&#34;germany&#34;" ; Times: 1
+	Query: "genus:Aphredoderus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "H.A. Ward" ; Times: 1
+	Query: "brook trout" ; Times: 1
+	Query: "Enneacanthus obesus" ; Times: 2
+	Query: "Eigenmannia humboldtii" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "Calophysus macropterus" ; Times: 1
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "Pseudopimelodus pulcher" ; Times: 1
+	Query: "Zungaro zungaro" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 4
+	Query: "Sphyrna zygaena" ; Times: 4
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "catalognumber:46100" ; Times: 1
+	Query: "Coreoperca CUMV" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "locality:Ithaca year &gt;= 1975 year &lt;= 1995 institutioncode:CUMV basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "NOTROPIS OZARCANUS" ; Times: 2
+	Query: "sphyrna zygaena" ; Times: 2
+	Query: "Lepomis microlophus CUMV" ; Times: 1
+	Query: "chirostoma jordani" ; Times: 3
+	Query: "Macquaria CUMV" ; Times: 1
+	Query: "Acantharchus pomotis" ; Times: 2
+	Query: "Pomoxis annularis" ; Times: 1
+	Query: "Creagrutus barrigai" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "Astyanax altiparanae" ; Times: 1
+	Query: "Petenia splendida" ; Times: 1
+	Query: "laeta" ; Times: 1
+	Query: "Brachyplatystoma vaillantii" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Micropterus punctulatus CUMV" ; Times: 2
+	Query: "Lepomis megalotis CUMV" ; Times: 1
+	Query: "Nannoperca CUMV" ; Times: 1
+	Query: "Pterodoras granulosus" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "7159" ; Times: 1
+	Query: "caucanus" ; Times: 1
+	Query: "5581" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 1
+	Query: "Bothus lunatus mappable:1" ; Times: 2
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "Micropterus treculi CUMV" ; Times: 1
+	Query: "gasterosteus year &gt;= 1800 year &lt;= 1910" ; Times: 1
+	Query: "67129" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "24292" ; Times: 1
+	Query: "PERCINA NASUTA" ; Times: 1
+	Query: "Chaetodon capistratus mappable:1" ; Times: 2
+	Query: "Exallodontus aguanai" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "Rhinodoras boehlkei" ; Times: 2
+	Query: "Megalonema platycephalum" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Rocio octofasciata" ; Times: 1
+	Query: "Elassoma CUMV" ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 2
+	Query: "mylossoma" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Chilomycterus antillarum mappable:1" ; Times: 2
+	Query: "Lepomis marginatus CUMV" ; Times: 1
+	Query: "Bostockia CUMV" ; Times: 1
+	Query: "Apogon townsendi mappable:1" ; Times: 2
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 6
+	Query: "Narcine bRASILIENSIS" ; Times: 2
+	Query: "Micropterus coosae CUMV" ; Times: 2
+	Query: "Apteronotus albifrons" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "Lepomis punctatus CUMV" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Ambloplites rupestris" ; Times: 1
+	Query: "catalognumber:42939 institutioncode:CUMV" ; Times: 4
+	Query: "chapala" ; Times: 2
+	Query: "Sorubim elongatus" ; Times: 1
+	Query: "Holocentrus adscensionis mappable:1" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 1
+	Query: "Ancistrus cirrhosus" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "Barbados" ; Times: 1
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "Chilomycterus antennatus mappable:1" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "Micropterus notius CUMV" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "genus:Cyphomyrus specificepithet:psittacus" ; Times: 1
+	Query: "rhamdella" ; Times: 1
+	Query: "Geotria" ; Times: 1
+	Query: "H.A. Ward (ward)" ; Times: 3
+	Query: "Pseudopimelodus bufonius" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 1
+	Query: "fieldnumber:cls" ; Times: 1
+	Query: "Elassoma okefenokee CUMV" ; Times: 1
+	Query: "Gephyrocharax valencia" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "Sorubim lima" ; Times: 1
+	Query: "Phaeoptyx conklini mappable:1" ; Times: 2
+	Query: "Characidium zebra" ; Times: 1
+	Query: "Microstoma microstoma" ; Times: 1
+	Query: "locality:rainbow" ; Times: 1
+	Query: "astronotus" ; Times: 1
+	Query: "69631" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Warfel" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "Nes longus mappable:1" ; Times: 1
+	Query: "Loricaria cataphracta" ; Times: 1
+	Query: "Diodon hystrix mappable:1" ; Times: 2
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "Lepomis gibbosus CUMV" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 3
+	Query: "Monachus monachus" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 1
+	Query: "82270" ; Times: 1
+	Query: "Prochilodus vimboides" ; Times: 1
+	Query: "40513" ; Times: 1
+	Query: "Lepomis humilis" ; Times: 1
+	Query: "Maccullochella CUMV" ; Times: 1
+	Query: "orestias" ; Times: 2
+	Query: "Elassoma okatie CUMV" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "monachus monachus" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "Micropterus dolomieu CUMV" ; Times: 1
+	Query: "county:&#34;Pamlico&#34;" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "DASYATIS SAY" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "Lactophrys bicaudalis" ; Times: 2
+	Query: "specificepithet:punctatus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "etheostoma fusiforme nantucket" ; Times: 1
+	Query: "Ambloplites ariommus" ; Times: 1
+	Query: "Halichoeres radiatus mappable:1" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "Eigenmannia limbata" ; Times: 1
+	Query: "Centrarchus macropterus" ; Times: 1
+	Query: "Parauchenipterus galeatus" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 1
+	Query: "Platydoras costatus" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Micropterus cataractae CUMV" ; Times: 1
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Elacatinus oceanops mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;esmeraldas&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Hypophthalmus edentatus" ; Times: 2
+	Query: "Campylomormyrus mirus" ; Times: 5
+	Query: "Agamyxis albomaculatus" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1034 download events in this period)
+Total number of records downloaded: 250
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Santander" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 2
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;esmeraldas&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 2
+
+
+End of report.
