@@ -1,0 +1,266 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 266
+Number of records retrieved in searches: 2134
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 50
+	Country: Canada ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Cuba ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 60
+	Country: United Kingdom ; Times: 8
+	Country: Kuwait ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Rwanda ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 108
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 6
+	Date: 2019-09-15 ; Times: 4
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 24
+	Date: 2019-09-10 ; Times: 60
+	Date: 2019-09-11 ; Times: 8
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 8
+	Date: 2019-09-19 ; Times: 25
+	Date: 2019-09-30 ; Times: 3
+	Date: 2019-09-09 ; Times: 5
+	Date: 2019-09-08 ; Times: 4
+	Date: 2019-09-03 ; Times: 26
+	Date: 2019-09-02 ; Times: 12
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 5
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-05 ; Times: 7
+	Date: 2019-09-04 ; Times: 5
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-22 ; Times: 10
+	Date: 2019-09-25 ; Times: 5
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 9
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "catalognumber:11882 institutioncode:CUMV" ; Times: 2
+	Query: "specificepithet:leucas genus:carcharhinus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "cranberry lake" ; Times: 2
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 46
+	Query: "county:&#34;Benton&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "specificepithet:carolinus genus:prionotus" ; Times: 2
+	Query: "Petrocephalus schoutedeni" ; Times: 2
+	Query: "chihuahua" ; Times: 3
+	Query: "county:&#34;Washington&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "vitreus Sander" ; Times: 4
+	Query: "genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 3
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 4
+	Query: "ablabes" ; Times: 1
+	Query: "Cyprinella callitaenia" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "45583" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 1
+	Query: "manatee" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "Upeneus" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "order:Characiformes country:&#34;Gabon&#34; institutioncode:CUMV" ; Times: 1
+	Query: "alligator cumv" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "Rypticus bistrispinus mappable:1" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:PULCHER genus:SEMICOSSYPHUS continent:AMERICA" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "recordedby:Fuller" ; Times: 1
+	Query: "Calamus penna mappable:1" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "alosa alabamae" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "Tautogolabrus adspersus mappable:1" ; Times: 1
+	Query: "CM 81042" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "locality:San Benito Islands" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "Vassar" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "Hypsoblennius hentz mappable:1" ; Times: 1
+	Query: "phalarope" ; Times: 2
+	Query: "arapaima gigas" ; Times: 1
+	Query: "gasterosteus washington" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "Chelidonichthys lucernus mappable:1" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "Geotria australis" ; Times: 1
+	Query: "Notropis melanostomus" ; Times: 3
+	Query: "genus:gasterosteus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "cahoon" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; institutioncode:CUMV" ; Times: 1
+	Query: "specificepithet:ribeiroi genus:bellator" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "county:&#34;montgomery&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "specificepithet:variatum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Panther" ; Times: 2
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "specificepithet:camurum genus:etheostoma stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "awaous banana" ; Times: 2
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "vntype:specimen county:&#34;Payne&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "bison Bison" ; Times: 2
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Sebastes marinus mappable:1" ; Times: 1
+	Query: "genus:Cyclothone institutioncode:CUMV" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "specificepithet:eximius genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "specificepithet:beanii genus:prionotus" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "order:Cypriniformes country:&#34;Gabon&#34; institutioncode:CUMV" ; Times: 2
+	Query: "Clupea harengus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "osprey" ; Times: 1
+	Query: "locality:lake malawi" ; Times: 1
+	Query: "gonorynchiformes institutioncode:CUMV" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Brewster&#34;" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 4
+	Query: "Radulinus asprellus mappable:1" ; Times: 1
+	Query: "Myoxocephalus octodecemspinosus mappable:1" ; Times: 1
+	Query: "Paralichthys brasiliensis" ; Times: 2
+	Query: "stateprovince:&#34;kilimanjaro&#34; country:&#34;tanzania&#34;" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "genus:Bodianus continent:America" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "Antigonia combatia mappable:1" ; Times: 1
+	Query: "americanus fairfax" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Paraclinus marmoratus mappable:1" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "Hemitripterus americanus mappable:1" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "family:labridae continent:america" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 5
+	Query: "Entosphenus tridentatus mappable:1" ; Times: 1
+	Query: "locality:chapala stateprovince:&#34;Jalisco&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "Cichla ocellaris mappable:1" ; Times: 3
+	Query: "21870" ; Times: 1
+	Query: "11963" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "Squalus suckleyi mappable:1" ; Times: 1
+	Query: "hypomesus pretiosus" ; Times: 3
+	Query: "Zonata" ; Times: 4
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "owstoni year &lt; 1980" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Beta fish" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "zygaena" ; Times: 1
+	Query: "Ogcocephalus vespertilio mappable:1" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "acanthemblemaria" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Dan river North Carolina" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "raja eglanteria" ; Times: 1
+	Query: "Jordania zonope mappable:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Aspidophoroides monopterygius mappable:1" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "Francis 1912" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1073 download events in this period)
+Total number of records downloaded: 1780
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:PULCHER genus:SEMICOSSYPHUS continent:AMERICA" ; Times: 1
+	Query: "order:Cypriniformes country:&#34;Gabon&#34; institutioncode:CUMV" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "chihuahua" ; Times: 2
+	Query: "order:Characiformes country:&#34;Gabon&#34; institutioncode:CUMV" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+
+
+End of report.
