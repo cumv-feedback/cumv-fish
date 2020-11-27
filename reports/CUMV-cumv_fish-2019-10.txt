@@ -1,0 +1,343 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 454
+Number of records retrieved in searches: 6222
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 229
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 11
+	Country: Indonesia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 19
+	Country: China ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Hungary ; Times: 2
+	Country: Belgium ; Times: 20
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 144
+	Country: Cyprus ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 33
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 20
+	Date: 2019-10-20 ; Times: 8
+	Date: 2019-10-27 ; Times: 8
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 95
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-03 ; Times: 15
+	Date: 2019-10-02 ; Times: 8
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 26
+	Date: 2019-10-23 ; Times: 81
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-29 ; Times: 11
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 40
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-16 ; Times: 25
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 12
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 8
+	Date: 2019-10-28 ; Times: 7
+	Date: 2019-10-30 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Carcharias taurus" ; Times: 1
+	Query: "Raja texana" ; Times: 2
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Negaprion brevirostris" ; Times: 2
+	Query: "54212" ; Times: 1
+	Query: "Basking" ; Times: 1
+	Query: "93814" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "Etmopterus princeps" ; Times: 2
+	Query: "chicken" ; Times: 1
+	Query: "&#34;Myrophis plumbeus&#34;" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "Malacoraja senta" ; Times: 2
+	Query: "Coelorinchus caelorhincus" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 10
+	Query: "Chanos chanos vntype:specimen" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "specificepithet:bison bison" ; Times: 1
+	Query: "vntype:specimen (Cromeria)" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "distance(location,geopoint(34.3968331473169,-119.471169108105))&lt;269545.637102603" ; Times: 9
+	Query: "Pervagor spilosoma mappable:1" ; Times: 2
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "71340" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "16467" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "toxotes" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "Mola mola" ; Times: 1
+	Query: "Alburnus chalcoides" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 3
+	Query: "96152" ; Times: 2
+	Query: "Mustelus manazo" ; Times: 2
+	Query: "9902" ; Times: 2
+	Query: "67534" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "50567" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Rhinochimaera pacifica" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "67214" ; Times: 3
+	Query: "vntype:specimen (Grasseichthys)" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "32783" ; Times: 1
+	Query: "locality:irvine" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Moxostoma hubbsi mappable:1" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "6985" ; Times: 3
+	Query: "32887" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "69978" ; Times: 1
+	Query: "Raja rhina" ; Times: 2
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "Leucoraja lentiginosa" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "3888 institutioncode:CUMV" ; Times: 1
+	Query: "Empetrichthys Latos pahrump" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Isurus paucus" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "fossil" ; Times: 1
+	Query: "ogcocephalus" ; Times: 2
+	Query: "fundulus grandis" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "40047" ; Times: 1
+	Query: "&#34;Negaprion brevirostris&#34;" ; Times: 1
+	Query: "polypteriformes" ; Times: 1
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "slater" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421315" ; Times: 41
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421313" ; Times: 13
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 3
+	Query: "distance(location,geopoint(38.245377204844,-107.45914695031))&lt;521019.392285124" ; Times: 2
+	Query: "Papyrocranus" ; Times: 1
+	Query: "Chirostoma jordani" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "Squatina japonica" ; Times: 2
+	Query: "locality:Saltville" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "hartii Rivulus" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "&#34;Selar crumenophthalmus&#34;" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "porichthys" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Sphyrna" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "notropis blennius" ; Times: 2
+	Query: "63118" ; Times: 1
+	Query: "Sander lucioperca" ; Times: 1
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "Pristiophorus japonicus" ; Times: 1
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Mustelus dorsalis" ; Times: 1
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Anoxypristis cuspidata" ; Times: 2
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Miller AND BEnito" ; Times: 1
+	Query: "Etmopterus schultzi" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "catalognumber:3888 institutioncode:CUMV" ; Times: 2
+	Query: "Sardinops sagax" ; Times: 2
+	Query: "9404" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "R-21808" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "Bison bison mappable:1" ; Times: 9
+	Query: "66686" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "Percina brevicauda" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "mylossoma" ; Times: 2
+	Query: "Mitsukurina owstoni" ; Times: 2
+	Query: "Hemiscyllium michaeli" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 1
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "5952" ; Times: 1
+	Query: "locality:Farquhar Island year &gt;= 1964 year &lt;= 1964" ; Times: 1
+	Query: "cow" ; Times: 1
+	Query: "Heterodontus japonicus" ; Times: 2
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Texas A&amp;M" ; Times: 2
+	Query: "catalognumber:3818 institutioncode:CUMV" ; Times: 1
+	Query: "Chromis margaritifer" ; Times: 2
+	Query: "menidia audens" ; Times: 2
+	Query: "28676" ; Times: 1
+	Query: "catalognumber:22188 institutioncode:CUMV" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "mink" ; Times: 2
+	Query: "33502" ; Times: 1
+	Query: "Parakneria vntype:specimen" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "gonorynchiformes" ; Times: 1
+	Query: "chanos chanos" ; Times: 1
+	Query: "amarus Rhodeus" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "52049" ; Times: 1
+	Query: "specificepithet:spatula genus:Atractosteus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:spatula genus:Atractosteus" ; Times: 2
+	Query: "12619" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "asper Cottus" ; Times: 4
+	Query: "hhh" ; Times: 1
+	Query: "Empetrichthys pahrump" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Hydrolagus alberti" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "Salamander" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "13267" ; Times: 3
+	Query: "70531" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "genus:Gobius" ; Times: 1
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Pristis microdon" ; Times: 1
+	Query: "catalognumber:3816 institutioncode:CUMV" ; Times: 1
+	Query: "Leucoraja ocellata" ; Times: 2
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "Okamejei kenojei" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "chanos chanos vntype:specimen" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "63905" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 3
+	Query: "krameri Umbra" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "Squatina californica" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Galeocerdo cuvier" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1308 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "vntype:specimen (Cromeria)" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "country:&#34;india&#34;" ; Times: 1
+	Query: "birds" ; Times: 1
+
+
+End of report.
