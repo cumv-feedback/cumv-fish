@@ -1,0 +1,336 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 321
+Number of records retrieved in searches: 1885
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Cuba ; Times: 3
+	Country: Venezuela ; Times: 6
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Switzerland ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Slovakia ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Japan ; Times: 13
+	Country: Germany ; Times: 3
+	Country: United States ; Times: 247
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 27
+	Date: 2020-03-30 ; Times: 15
+	Date: 2020-03-31 ; Times: 44
+	Date: 2020-03-02 ; Times: 21
+	Date: 2020-03-18 ; Times: 21
+	Date: 2020-03-19 ; Times: 11
+	Date: 2020-03-16 ; Times: 3
+	Date: 2020-03-09 ; Times: 12
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 16
+	Date: 2020-03-11 ; Times: 26
+	Date: 2020-03-17 ; Times: 6
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 6
+	Date: 2020-03-25 ; Times: 7
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 24
+	Date: 2020-03-22 ; Times: 5
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 9
+	Date: 2020-03-05 ; Times: 8
+	Date: 2020-03-04 ; Times: 16
+	Date: 2020-03-06 ; Times: 16
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-28 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "Scarus coelestinus mappable:1" ; Times: 1
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "prionotus alatus" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "(663)" ; Times: 2
+	Query: "mappable:1 year&gt;=1979 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "county:&#34;Cocke&#34;" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "catalognumber:28511 institutioncode:CUMV" ; Times: 1
+	Query: "97922" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "chitala ornata" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "Yoko" ; Times: 3
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Scarus prasiognathos mappable:1" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Chaetodon capistratus" ; Times: 1
+	Query: "96091" ; Times: 2
+	Query: "specificepithet:diabolis" ; Times: 1
+	Query: "Etheostoma ditrema" ; Times: 3
+	Query: "AH 312" ; Times: 2
+	Query: "24548" ; Times: 1
+	Query: "Etmopterus gracilispinis" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 14
+	Query: "Gambusia rhizophorae" ; Times: 1
+	Query: "catalognumber:55701 institutioncode:CUMV" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Engraulis encrasicolus" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Scarus iseri mappable:1" ; Times: 1
+	Query: "mola mola" ; Times: 1
+	Query: "Macrhybopsis tetranema" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "catalognumber:25508 institutioncode:CUMV" ; Times: 1
+	Query: "RHB" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "CM 7580" ; Times: 1
+	Query: "2472" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "bullfrog" ; Times: 2
+	Query: "76847" ; Times: 1
+	Query: "continent:Africa institutioncode:CUMV" ; Times: 1
+	Query: "Atherina hepsetus mappable:1" ; Times: 2
+	Query: "(46173)" ; Times: 1
+	Query: "James Bruce" ; Times: 1
+	Query: "&#34;El Porvenir&#34;" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "Chapalichthys" ; Times: 3
+	Query: "catalognumber:28589 institutioncode:CUMV" ; Times: 1
+	Query: "16544" ; Times: 2
+	Query: "Percina lenticula" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 2
+	Query: "hartii" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "specificepithet:punctatus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "country:&#34;Thailand&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "hippocampus reidi" ; Times: 1
+	Query: "Centrophorus granulosus" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "Elassoma evergladei" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "V 1132" ; Times: 1
+	Query: "chondrostoma nasus" ; Times: 2
+	Query: "Scarus hoefleri mappable:1" ; Times: 1
+	Query: "a&amp;m" ; Times: 1
+	Query: "Bedotia" ; Times: 1
+	Query: "amphilophus rostratus" ; Times: 1
+	Query: "(salamander) AND (NOT Australia)" ; Times: 1
+	Query: "catalognumber:20798 institutioncode:CUMV" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "70672" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Sardinella maderensis" ; Times: 1
+	Query: "recordedby:bloom" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "Nicholsina denticulata mappable:1" ; Times: 1
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 8
+	Query: "Biaro" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "Scarus oviceps mappable:1" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "Scarus ferrugineus mappable:1" ; Times: 1
+	Query: "Dave Long" ; Times: 2
+	Query: "cumv 6190" ; Times: 3
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "Atherinomorus pinguis mappable:1" ; Times: 3
+	Query: "(35175)" ; Times: 1
+	Query: "balitora" ; Times: 1
+	Query: "cumv 17188" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "(salamander)" ; Times: 1
+	Query: "cumv 9212" ; Times: 2
+	Query: "cumv 9214" ; Times: 2
+	Query: "cumv 9216" ; Times: 2
+	Query: "&#34;Forest Home&#34;" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "catalognumber:28480 institutioncode:CUMV" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Calotomus carolinus mappable:1" ; Times: 3
+	Query: "locality:Rio Verde. " ; Times: 1
+	Query: "&#34;Marajo&#34;" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "&#34;Amatitlán&#34;" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "chondrostoma" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "photograph" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "Melanotaenia duboulayi mappable:1" ; Times: 1
+	Query: "90583" ; Times: 1
+	Query: "cumv 7190" ; Times: 2
+	Query: "52022" ; Times: 1
+	Query: "(49096)" ; Times: 4
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "newfoundland" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "catalognumber:28522 institutioncode:CUMV" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "Atherina boyeri mappable:1" ; Times: 2
+	Query: "catalognumber:28515 institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Atherina breviceps mappable:1" ; Times: 2
+	Query: "(serpent)" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "98368" ; Times: 2
+	Query: "TWR 230" ; Times: 1
+	Query: "Scarus dubius mappable:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "Astronotus" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "Atherinomorus insularum mappable:1" ; Times: 3
+	Query: "locality:Southern Branch" ; Times: 1
+	Query: "38130" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "37094" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "30740" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "catalognumber:55519 institutioncode:CUMV" ; Times: 2
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "cobitis taenia" ; Times: 2
+	Query: "89688" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "catalognumber:25502 institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:28517 institutioncode:CUMV" ; Times: 1
+	Query: "chromobotia" ; Times: 1
+	Query: "CUMV 13857" ; Times: 3
+	Query: "24177" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "Gambusia hispaniolae" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "83012" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "Craterocephalus marjoriae mappable:1" ; Times: 1
+	Query: "genus:cyprinodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:25509 institutioncode:CUMV" ; Times: 1
+	Query: "catalognumber:25515 institutioncode:CUMV" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "CUMV 55542" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "88872" ; Times: 1
+	Query: "catalognumber:30330 institutioncode:CUMV" ; Times: 1
+	Query: "lucania" ; Times: 2
+	Query: "harengula humeralis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 853 download events in this period)
+Total number of records downloaded: 86589
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Cuba ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Gambusia rhizophorae" ; Times: 1
+	Query: "Gambusia hispaniolae" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "year &gt;= 1865 year &lt;= 2019 institutioncode:CUMV" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "cobitis taenia" ; Times: 1
+	Query: "caenotropus" ; Times: 1
+	Query: "Symbolophorus barnardi" ; Times: 1
+
+
+End of report.
