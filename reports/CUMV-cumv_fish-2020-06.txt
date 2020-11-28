@@ -1,0 +1,250 @@
+Report for Institution Code CUMV, Resource cumv_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 669
+Number of records retrieved in searches: 15630
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 62
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 550
+	Country: Peru ; Times: 25
+	Country: Japan ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 19
+	Date: 2020-06-19 ; Times: 6
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 16
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 11
+	Date: 2020-06-04 ; Times: 10
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 10
+	Date: 2020-06-03 ; Times: 11
+	Date: 2020-06-01 ; Times: 10
+	Date: 2020-06-15 ; Times: 58
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-10 ; Times: 221
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-26 ; Times: 7
+	Date: 2020-06-11 ; Times: 223
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-17 ; Times: 53
+	Date: 2020-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "Geophagus brasiliensis" ; Times: 1
+	Query: "Salmo trutta" ; Times: 9
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Agonostomus monticola) country:United States mappable:1" ; Times: 2
+	Query: "Harengula clupeola" ; Times: 1
+	Query: "Etheostoma vulneratum" ; Times: 1
+	Query: "Apistogramma agassizii" ; Times: 1
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "37841" ; Times: 1
+	Query: "Trichomycterus dispar" ; Times: 1
+	Query: "Stenodus leucichthys" ; Times: 6
+	Query: "Bald Eagle" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Stomatepia pindu" ; Times: 6
+	Query: "Cottus bairdii" ; Times: 4
+	Query: "Gambusia nobilis" ; Times: 3
+	Query: "Capoeta capoeta" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "82441" ; Times: 1
+	Query: "Chitala ornata" ; Times: 12
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "salamander" ; Times: 1
+	Query: "Esox lucius" ; Times: 8
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Alburnus chalcoides" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Chiloglanis asymetricaudalis" ; Times: 6
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "Abramis brama" ; Times: 6
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Coregonus clupeaformis" ; Times: 6
+	Query: "noturus placidus" ; Times: 3
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "brava" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Tropheus duboisi" ; Times: 6
+	Query: "catalognumber:7836 institutioncode:CUMV" ; Times: 1
+	Query: "lampetra planeri" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 6
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Chiloglanis orthodontus" ; Times: 6
+	Query: "virgin islands" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "country:&#34;Philippines&#34; year &gt;= 1800 year &lt;= 1880" ; Times: 1
+	Query: "county:&#34;Gates&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Myaka myaka" ; Times: 6
+	Query: "Microglanis poecilus" ; Times: 4
+	Query: "Oreochromis malagarasi" ; Times: 6
+	Query: "Channa striata" ; Times: 12
+	Query: "Trigonostigma heteromorpha" ; Times: 6
+	Query: "Bujurquina huallagae" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "Mugil cephalus" ; Times: 11
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "gasterosteus aculeatus" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "locality:kentucky" ; Times: 3
+	Query: "macolor niger" ; Times: 1
+	Query: "cow" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Bullfrog" ; Times: 1
+	Query: "Sardinella albella" ; Times: 6
+	Query: "Sardinella maderensis" ; Times: 6
+	Query: "raccoon" ; Times: 1
+	Query: "RT 287" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Scomber colias" ; Times: 6
+	Query: "Decapterus muroadsi" ; Times: 6
+	Query: "V-1132" ; Times: 1
+	Query: "catalognumber:20269 institutioncode:CUMV" ; Times: 1
+	Query: "sphyrna zygaena" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "rhinochimaera pacifica" ; Times: 1
+	Query: "Ilisha melastoma" ; Times: 6
+	Query: "93995" ; Times: 1
+	Query: "family:batrachoididae hastissue:1" ; Times: 2
+	Query: "5661" ; Times: 1
+	Query: "mustelus manazo" ; Times: 2
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Pellonula vorax" ; Times: 1
+	Query: "Pungu maclareni" ; Times: 6
+	Query: "phosichthys argenteus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Pterothrissus belloci" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 5
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "melanogrammus aeglefinus" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Clupea harengus" ; Times: 15
+	Query: "Heteropneustes fossilis" ; Times: 6
+	Query: "stellifer stellifer" ; Times: 1
+	Query: "Sillago sihama" ; Times: 6
+	Query: "bald eagle" ; Times: 2
+	Query: "Gymnocephalus cernua" ; Times: 6
+	Query: "Cottus ricei" ; Times: 6
+	Query: "Geophagus steindachneri" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "Bryconamericus" ; Times: 1
+	Query: "Pseudostegophilus haemomyzon" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "alces alces" ; Times: 2
+	Query: "Microglanis iheringi" ; Times: 4
+	Query: "etheostoma vulneratum" ; Times: 1
+	Query: "Diplotaxodon limnothrissa" ; Times: 6
+	Query: "Ochmacanthus alternus" ; Times: 1
+	Query: "Cottus perplexus" ; Times: 6
+	Query: "Ictalurus punctatus" ; Times: 6
+	Query: "vntype:specimen (batrachoididae) hastissue:1" ; Times: 1
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "Oreochromis tanganicae" ; Times: 6
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "FLAMINGO" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Ambassis miops" ; Times: 6
+	Query: "Cichlasoma bimaculatum" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Butis butis" ; Times: 6
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "Cottus asper" ; Times: 6
+	Query: "RT 318" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "gymnothorax mordax" ; Times: 1
+	Query: "CUMV 54895" ; Times: 1
+	Query: "RT 286" ; Times: 2
+	Query: "Chrysichthys brachynema" ; Times: 6
+	Query: "21719" ; Times: 2
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "Serranochromis robustus" ; Times: 6
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Clarias gabonensis" ; Times: 6
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "Coregonus zenithicus" ; Times: 6
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:3257 institutioncode:CUMV" ; Times: 2
+	Query: "Atherina hepsetus" ; Times: 6
+	Query: "catalognumber:6037 institutioncode:CUMV" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 474 download events in this period)
+Total number of records downloaded: 2668
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
